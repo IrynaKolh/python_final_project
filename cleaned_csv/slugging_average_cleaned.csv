@@ -1,0 +1,274 @@
+Year,League,Player,Team,Slugging Average
+1876,NL,Ross Barnes,Chicago,0.59
+1877,NL,Deacon White,Boston,0.545
+1878,NL,Paul Hines,Providence,0.486
+1879,NL,John O'Rourke,Boston,0.521
+1880,NL,George Gore,Chicago,0.463
+1881,NL,Dan Brouthers,Buffalo,0.541
+1882,NL,Dan Brouthers,Buffalo,0.547
+1883,NL,Dan Brouthers,Buffalo,0.572
+1884,NL,Dan Brouthers,Buffalo,0.563
+1885,NL,Dan Brouthers,Buffalo,0.543
+1886,NL,Dan Brouthers,Detroit,0.581
+1887,NL,Dan Brouthers,Detroit,0.562
+1888,NL,Jimmy Ryan,Chicago,0.515
+1889,NL,Roger Connor,New York,0.528
+1890,NL,Mike Tiernan,New York,0.495
+1891,NL,Harry Stovey,Boston,0.498
+1892,NL,Ed Delahanty,Philadelphia,0.495
+1893,NL,Ed Delahanty,Philadelphia,0.583
+1894,NL,Hugh Duffy,Boston,0.694
+1895,NL,Sam Thompson,Philadelphia,0.654
+1896,NL,Ed Delahanty,Philadelphia,0.631
+1897,NL,Nap Lajoie,Philadelphia,0.571
+1898,NL,John Anderson,Brooklyn,0.494
+1899,NL,Ed Delahanty,Philadelphia,0.582
+1900,NL,Honus Wagner,Pittsburgh,0.573
+1901,AL,Nap Lajoie,Philadelphia,0.638
+1901,NL,Jimmy Sheckard,Brooklyn,0.534
+1902,AL,Ed Delahanty,Washington,0.59
+1902,NL,Honus Wagner,Pittsburgh,0.464
+1903,AL,Nap Lajoie,Cleveland,0.53
+1903,NL,Fred Clarke,Pittsburgh,0.532
+1904,AL,Nap Lajoie,Cleveland,0.552
+1904,NL,Honus Wagner,Pittsburgh,0.52
+1905,AL,Elmer Flick,Cleveland,0.462
+1905,NL,Cy Seymour,Cincinnati,0.559
+1906,AL,George Stone,St. Louis,0.501
+1906,NL,Harry Lumley,Brooklyn,0.477
+1907,AL,Ty Cobb,Detroit,0.468
+1907,NL,Honus Wagner,Pittsburgh,0.513
+1908,AL,Ty Cobb,Detroit,0.476
+1908,NL,Honus Wagner,Pittsburgh,0.542
+1909,AL,Ty Cobb,Detroit,0.517
+1909,NL,Honus Wagner,Pittsburgh,0.489
+1910,AL,Ty Cobb,Detroit,0.549
+1910,NL,Sherry Magee,Philadelphia,0.507
+1911,AL,Ty Cobb,Detroit,0.62
+1911,NL,Frank Schulte,Chicago,0.534
+1912,AL,Ty Cobb,Detroit,0.584
+1912,NL,Heinie Zimmerman,Chicago,0.571
+1913,AL,Joe Jackson,Cleveland,0.551
+1913,NL,Gavvy Cravath,Philadelphia,0.568
+1914,AL,Ty Cobb,Detroit,0.513
+1914,NL,Sherry Magee,Philadelphia,0.509
+1915,AL,Jack Fournier,Chicago,0.491
+1915,NL,Gavvy Cravath,Philadelphia,0.51
+1916,AL,Tris Speaker,Cleveland,0.502
+1916,NL,Zack Wheat,Brooklyn,0.461
+1917,AL,Ty Cobb,Detroit,0.57
+1917,NL,Rogers Hornsby,St. Louis,0.484
+1918,AL,Babe Ruth,Boston,0.555
+1918,NL,Edd Roush,Cincinnati,0.455
+1919,AL,Babe Ruth,Boston,0.657
+1919,NL,Hy Myers,Brooklyn,0.436
+1920,AL,Babe Ruth,New York,0.847
+1920,NL,Rogers Hornsby,St. Louis,0.559
+1921,AL,Babe Ruth,New York,0.846
+1921,NL,Rogers Hornsby,St. Louis,0.639
+1922,AL,Babe Ruth,New York,0.672
+1922,NL,Rogers Hornsby,St. Louis,0.722
+1923,AL,Babe Ruth,New York,0.764
+1923,NL,Rogers Hornsby,St. Louis,0.627
+1924,AL,Babe Ruth,New York,0.739
+1924,NL,Rogers Hornsby,St. Louis,0.696
+1925,AL,Ken Williams,St. Louis,0.613
+1925,NL,Rogers Hornsby,St. Louis,0.756
+1926,AL,Babe Ruth,New York,0.737
+1926,NL,Cy Williams,Philadelphia,0.568
+1927,AL,Babe Ruth,New York,0.772
+1927,NL,Chick Hafey,St. Louis,0.59
+1928,AL,Babe Ruth,New York,0.709
+1928,NL,Rogers Hornsby,Boston,0.632
+1929,AL,Babe Ruth,New York,0.697
+1929,NL,Rogers Hornsby,Chicago,0.679
+1930,AL,Babe Ruth,New York,0.732
+1930,NL,Hack Wilson,Chicago,0.723
+1931,AL,Babe Ruth,New York,0.7
+1931,NL,Chuck Klein,Philadelphia,0.584
+1932,AL,Jimmie Foxx,Philadelphia,0.749
+1932,NL,Chuck Klein,Philadelphia,0.646
+1933,AL,Jimmie Foxx,Philadelphia,0.703
+1933,NL,Chuck Klein,Philadelphia,0.602
+1934,AL,Lou Gehrig,New York,0.706
+1934,NL,Ripper Collins,St. Louis,0.615
+1935,AL,Jimmie Foxx,Philadelphia,0.636
+1935,NL,Arky Vaughan,Pittsburgh,0.607
+1936,AL,Lou Gehrig,New York,0.696
+1936,NL,Mel Ott,New York,0.588
+1937,AL,Joe DiMaggio,New York,0.673
+1937,NL,Joe Medwick,St. Louis,0.641
+1938,AL,Jimmie Foxx,Boston,0.704
+1938,NL,Johnny Mize,St. Louis,0.614
+1939,AL,Jimmie Foxx,Boston,0.694
+1939,NL,Johnny Mize,St. Louis,0.626
+1940,AL,Hank Greenberg,Detroit,0.67
+1940,NL,Johnny Mize,St. Louis,0.636
+1941,AL,Ted Williams,Boston,0.735
+1941,NL,Pete Reiser,Brooklyn,0.558
+1942,AL,Ted Williams,Boston,0.648
+1942,NL,Johnny Mize,New York,0.521
+1943,AL,Rudy York,Detroit,0.527
+1943,NL,Stan Musial,St. Louis,0.562
+1944,AL,Bobby Doerr,Boston,0.528
+1944,NL,Stan Musial,St. Louis,0.549
+1945,AL,Snuffy Stirnweiss,New York,0.476
+1945,NL,Tommy Holmes,Boston,0.577
+1946,AL,Ted Williams,Boston,0.667
+1946,NL,Stan Musial,St. Louis,0.587
+1947,AL,Ted Williams,Boston,0.634
+1947,NL,Ralph Kiner,Pittsburgh,0.639
+1948,AL,Ted Williams,Boston,0.615
+1948,NL,Stan Musial,St. Louis,0.702
+1949,AL,Ted Williams,Boston,0.65
+1949,NL,Ralph Kiner,Pittsburgh,0.658
+1950,AL,Joe DiMaggio,New York,0.585
+1950,NL,Stan Musial,St. Louis,0.596
+1951,AL,Ted Williams,Boston,0.556
+1951,NL,Ralph Kiner,Pittsburgh,0.627
+1952,AL,Larry Doby,Cleveland,0.541
+1952,NL,Stan Musial,St. Louis,0.538
+1953,AL,Al Rosen,Cleveland,0.613
+1953,NL,Duke Snider,Brooklyn,0.627
+1954,AL,Ted Williams,Boston,0.635
+1954,NL,Willie Mays,New York,0.667
+1955,AL,Mickey Mantle,New York,0.611
+1955,NL,Willie Mays,New York,0.659
+1956,AL,Mickey Mantle,New York,0.705
+1956,NL,Duke Snider,Brooklyn,0.598
+1957,AL,Ted Williams,Boston,0.731
+1957,NL,Willie Mays,New York,0.626
+1958,AL,Rocky Colavito,Cleveland,0.62
+1958,NL,Ernie Banks,Chicago,0.614
+1959,AL,Al Kaline,Detroit,0.53
+1959,NL,Hank Aaron,Milwaukee,0.636
+1960,AL,Roger Maris,New York,0.581
+1960,NL,Frank Robinson,Cincinnati,0.595
+1961,AL,Mickey Mantle,New York,0.687
+1961,NL,Frank Robinson,Cincinnati,0.611
+1962,AL,Mickey Mantle,New York,0.605
+1962,NL,Frank Robinson,Cincinnati,0.624
+1963,AL,Harmon Killebrew,Minnesota,0.555
+1963,NL,Hank Aaron,Milwaukee,0.586
+1964,AL,Boog Powell,Baltimore,0.606
+1964,NL,Willie Mays,San Francisco,0.607
+1965,AL,Carl Yastrzemski,Boston,0.536
+1965,NL,Willie Mays,San Francisco,0.645
+1966,AL,Frank Robinson,Baltimore,0.637
+1966,NL,Dick Allen,Philadelphia,0.632
+1967,AL,Carl Yastrzemski,Boston,0.622
+1967,NL,Hank Aaron,Atlanta,0.573
+1968,AL,Frank Howard,Washington,0.552
+1968,NL,Willie McCovey,San Francisco,0.545
+1969,AL,Reggie Jackson,Oakland,0.608
+1969,NL,Willie McCovey,San Francisco,0.656
+1970,AL,Carl Yastrzemski,Boston,0.592
+1970,NL,Willie McCovey,San Francisco,0.612
+1971,AL,Tony Oliva,Minnesota,0.546
+1971,NL,Hank Aaron,Atlanta,0.669
+1972,AL,Dick Allen,Chicago,0.603
+1972,NL,Billy Williams,Chicago,0.606
+1973,AL,Reggie Jackson,Oakland,0.531
+1973,NL,Willie Stargell,Pittsburgh,0.646
+1974,AL,Dick Allen,Chicago,0.563
+1974,NL,Mike Schmidt,Philadelphia,0.546
+1975,AL,Fred Lynn,Boston,0.566
+1975,NL,Dave Parker,Pittsburgh,0.541
+1976,AL,Reggie Jackson,Baltimore,0.502
+1976,NL,Joe Morgan,Cincinnati,0.576
+1977,AL,Jim Rice,Boston,0.593
+1977,NL,George Foster,Cincinnati,0.631
+1978,AL,Jim Rice,Boston,0.6
+1978,NL,Dave Parker,Pittsburgh,0.585
+1979,AL,Fred Lynn,Boston,0.637
+1979,NL,Dave Kingman,Chicago,0.613
+1980,AL,George Brett,Kansas City,0.664
+1980,NL,Mike Schmidt,Philadelphia,0.624
+1981,AL,Bobby Grich,California,0.543
+1981,NL,Mike Schmidt,Philadelphia,0.644
+1982,AL,Robin Yount,Milwaukee,0.578
+1982,NL,Mike Schmidt,Philadelphia,0.547
+1983,AL,George Brett,Kansas City,0.562
+1983,NL,Dale Murphy,Atlanta,0.54
+1984,AL,Harold Baines,Chicago,0.541
+1984,NL,Dale Murphy,Atlanta,0.547
+1985,AL,George Brett,Kansas City,0.585
+1985,NL,Pedro Guerrero,Los Angeles,0.577
+1986,AL,Don Mattingly,New York,0.573
+1986,NL,Mike Schmidt,Philadelphia,0.547
+1987,AL,Mark McGwire,Oakland,0.618
+1987,NL,Jack Clark,St. Louis,0.597
+1988,AL,Jose Canseco,Oakland,0.569
+1988,NL,Darryl Strawberry,New York,0.545
+1989,AL,Ruben Sierra,Texas,0.543
+1989,NL,Kevin Mitchell,San Francisco,0.635
+1990,AL,Cecil Fielder,Detroit,0.592
+1990,NL,Barry Bonds,Pittsburgh,0.565
+1991,AL,Danny Tartabull,Kansas City,0.593
+1991,NL,Will Clark,San Francisco,0.536
+1992,AL,Mark McGwire,Oakland,0.585
+1992,NL,Barry Bonds,Pittsburgh,0.624
+1993,AL,Juan Gonzalez,Texas,0.632
+1993,NL,Barry Bonds,San Francisco,0.677
+1994,AL,Frank Thomas,Chicago,0.729
+1994,NL,Jeff Bagwell,Houston,0.75
+1995,AL,Albert Belle,Cleveland,0.69
+1995,NL,Dante Bichette,Colorado,0.62
+1996,AL,Mark McGwire,Oakland,0.73
+1996,NL,Ellis Burks,Colorado,0.639
+1997,AL,"Ken Griffey, Jr.",Seattle,0.646
+1997,NL,Larry Walker,Colorado,0.72
+1998,AL,Albert Belle,Chicago,0.655
+1998,NL,Mark McGwire,St. Louis,0.752
+1999,AL,Manny Ramirez,Cleveland,0.663
+1999,NL,Larry Walker,Colorado,0.71
+2000,AL,Manny Ramirez,Cleveland,0.697
+2000,NL,Todd Helton,Colorado,0.698
+2001,AL,Jason Giambi,Oakland,0.66
+2001,NL,Barry Bonds,San Francisco,0.863
+2002,AL,Jim Thome,Cleveland,0.677
+2002,NL,Barry Bonds,San Francisco,0.799
+2003,AL,Alex Rodriguez,Texas,0.6
+2003,NL,Barry Bonds,San Francisco,0.749
+2004,AL,Manny Ramirez,Boston,0.613
+2004,NL,Barry Bonds,San Francisco,0.812
+2005,AL,Alex Rodriguez,New York,0.61
+2005,NL,Derrek Lee,Chicago,0.662
+2006,AL,Travis Hafner,Cleveland,0.659
+2006,NL,Albert Pujols,St. Louis,0.671
+2007,AL,Alex Rodriguez,New York,0.645
+2007,NL,Ryan Braun,Milwaukee,0.634
+2008,AL,Alex Rodriguez,New York,0.573
+2008,NL,Albert Pujols,St. Louis,0.653
+2009,AL,Joe Mauer,Minnesota,0.587
+2009,NL,Albert Pujols,St. Louis,0.658
+2010,AL,Josh Hamilton,Texas,0.633
+2010,NL,Joey Votto,Cincinnati,0.6
+2011,AL,Mike Napoli,Texas,0.631
+2011,NL,Ryan Braun,Milwaukee,0.597
+2012,AL,Miguel Cabrera,Detroit,0.606
+2012,NL,Giancarlo Stanton,Miami,0.608
+2013,AL,Miguel Cabrera,Detroit,0.636
+2013,NL,Carlos González,Colorado,0.591
+2014,AL,José Abreu,Chicago,0.581
+2014,NL,Corey Dickerson,Colorado,0.567
+2015,AL,Mike Trout,Los Angeles,0.59
+2015,NL,Bryce Harper,Washington,0.649
+2016,AL,David Ortiz,Boston,0.62
+2016,NL,Daniel Murphy,Washington,0.595
+2017,AL,Mike Trout,Los Angeles,0.629
+2017,NL,Giancarlo Stanton,Miami,0.631
+2018,AL,Mookie Betts,Boston,0.64
+2018,NL,Christian Yelich,Milwaukee,0.598
+2019,AL,Mike Trout,Los Angeles,0.645
+2019,NL,Christian Yelich,Milwaukee,0.671
+2020,AL,Jose Abreu,Chicago,0.617
+2020,NL,Juan Soto,Washington,0.695
+2021,AL,Vladimir Guerrero Jr.,Toronto,0.601
+2021,NL,Bryce Harper,Philadelphia,0.615
+2022,AL,Aaron Judge,New York,0.686
+2022,NL,Paul Goldschmidt,St. Louis,0.578
+2023,AL,Shohei Ohtani,Los Angeles,0.654
+2023,NL,Matt Olson,Atlanta,0.604
+2024,AL,Aaron Judge,New York,0.701
+2024,NL,Shohei Ohtani,Los Angeles,0.646
