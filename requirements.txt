@@ -42,7 +42,6 @@ PySocks
 python-dateutil
 python-dotenv
 pytz
-pywin32
 referencing
 requests
 rich
