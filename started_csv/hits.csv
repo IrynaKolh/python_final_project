@@ -1,0 +1,305 @@
+Year,League,Player,Team,Hits
+Year,AL,American League,Team(s),Hits
+Year,NL,National League,Team(s),Hits
+1876,AL,-,-,-
+1876,NL,Ross Barnes,Chicago,138
+1877,AL,-,-,-
+1877,NL,Deacon White,Boston,103
+1878,AL,-,-,-
+1878,NL,Joe Start,Chicago,100
+1879,AL,-,-,-
+1879,NL,Paul Hines,Providence,146
+1880,AL,-,-,-
+1880,NL,Abner Dalrymple,Chicago,126
+1881,AL,-,-,-
+1881,NL,Cap Anson,Chicago,137
+1882,AL,-,-,-
+1882,NL,Dan Brouthers,Buffalo,129
+1883,AL,-,-,-
+1883,NL,Dan Brouthers,Buffalo,159
+1884,AL,-,-,-
+1884,NL,Jim O'Rourke,Buffalo,162
+1885,AL,-,-,-
+1885,NL,Roger Connor,New York,169
+1886,AL,-,-,-
+1886,NL,Hardy Richardson,Detroit,189
+1887,AL,-,-,-
+1887,NL,Sam Thompson,Detroit,171
+1888,AL,-,-,-
+1888,NL,Jimmy Ryan,Chicago,182
+1889,AL,-,-,-
+1889,NL,Jack Glasscock,Indianapolis,205
+1890,AL,-,-,-
+1890,NL,Jack Glasscock,New York,172
+1891,AL,-,-,-
+1891,NL,Billy Hamilton,Philadelphia,179
+1892,AL,-,-,-
+1892,NL,Dan Brouthers,Brooklyn,197
+1893,AL,-,-,-
+1893,NL,Sam Thompson,Philadelphia,222
+1894,AL,-,-,-
+1894,NL,Hugh Duffy,Boston,237
+1895,AL,-,-,-
+1895,NL,Jesse Burkett,Cleveland,225
+1896,AL,-,-,-
+1896,NL,Jesse Burkett,Cleveland,240
+1897,AL,-,-,-
+1897,NL,Willie Keeler,Baltimore,239
+1898,AL,-,-,-
+1898,NL,Willie Keeler,Baltimore,216
+1899,AL,-,-,-
+1899,NL,Ed Delahanty,Philadelphia,238
+1900,AL,-,-,-
+1900,NL,Willie Keeler,Brooklyn,204
+1901,AL,Nap Lajoie,Philadelphia,229
+1901,NL,Jesse Burkett,St. Louis,226
+1902,AL,Charlie Hickman,Boston,193
+1902,NL,Ginger Beaumont,Pittsburgh,193
+1903,AL,Patsy Dougherty,Boston,195
+1903,NL,Ginger Beaumont,Pittsburgh,209
+1904,AL,Nap Lajoie,Cleveland,211
+1904,NL,Ginger Beaumont,Pittsburgh,185
+1905,AL,George Stone,St. Louis,187
+1905,NL,Cy Seymour,Cincinnati,219
+1906,AL,Nap Lajoie,Cleveland,214
+1906,NL,Harry Steinfeldt,Chicago,176
+1907,AL,Ty Cobb,Detroit,212
+1907,NL,Ginger Beaumont,Boston,187
+1908,AL,Ty Cobb,Detroit,188
+1908,NL,Honus Wagner,Pittsburgh,201
+1909,AL,Ty Cobb,Detroit,216
+1909,NL,Larry Doyle,New York,172
+1910,AL,Nap Lajoie,Cleveland,227
+1910,NL,Bobby Byrne,Pittsburgh,178
+1911,AL,Ty Cobb,Detroit,248
+1911,NL,Doc Miller,Boston,192
+1912,AL,Ty Cobb,Detroit,226
+1912,NL,Heinie Zimmerman,Chicago,207
+1913,AL,Joe Jackson,Cleveland,197
+1913,NL,Gavvy Cravath,Philadelphia,179
+1914,AL,Tris Speaker,Boston,193
+1914,NL,Sherry Magee,Philadelphia,171
+1915,AL,Ty Cobb,Detroit,208
+1915,NL,Larry Doyle,New York,189
+1916,AL,Tris Speaker,Cleveland,211
+1916,NL,Hal Chase,Cincinnati,184
+1917,AL,Ty Cobb,Detroit,225
+1917,NL,Heinie Groh,Cincinnati,182
+1918,AL,George Burns,Philadelphia,178
+1918,NL,Charlie Hollocher,Chicago,161
+1919,AL,Ty Cobb,Detroit,191
+1919,NL,Ivy Olson,Brooklyn,164
+1920,AL,George Sisler,St. Louis,257
+1920,NL,Rogers Hornsby,St. Louis,218
+1921,AL,Harry Heilmann,Detroit,237
+1921,NL,Rogers Hornsby,St. Louis,235
+1922,AL,George Sisler,St. Louis,246
+1922,NL,Rogers Hornsby,St. Louis,250
+1923,AL,Charlie Jamieson,Cleveland,222
+1923,NL,Frankie Frisch,New York,223
+1924,AL,Sam Rice,Washington,216
+1924,NL,Rogers Hornsby,St. Louis,227
+1925,AL,Al Simmons,Philadelphia,253
+1925,NL,Jim Bottomley,St. Louis,227
+1926,AL,George Burns,Cleveland,216
+1926,NL,Eddie Brown,Boston,201
+1927,AL,Earle Combs,New York,231
+1927,NL,Paul Waner,Pittsburgh,237
+1928,AL,Heinie Manush,St. Louis,241
+1928,NL,Freddie Lindstrom,New York,231
+1929,AL,Dale Alexander,Detroit,215
+1929,NL,Lefty O'Doul,Philadelphia,254
+1930,AL,Johnny Hodapp,Cleveland,225
+1930,NL,Bill Terry,New York,254
+1931,AL,Lou Gehrig,New York,211
+1931,NL,Lloyd Waner,Pittsburgh,214
+1932,AL,Al Simmons,Philadelphia,216
+1932,NL,Chuck Klein,Philadelphia,226
+1933,AL,Heinie Manush,Washington,221
+1933,NL,Chuck Klein,Philadelphia,223
+1934,AL,Charlie Gehringer,Detroit,214
+1934,NL,Paul Waner,Pittsburgh,217
+1935,AL,Joe Vosmik,Cleveland,216
+1935,NL,Billy Herman,Chicago,227
+1936,AL,Earl Averill,Cleveland,232
+1936,NL,Joe Medwick,St. Louis,223
+1937,AL,Beau Bell,St. Louis,218
+1937,NL,Joe Medwick,St. Louis,237
+1938,AL,Joe Vosmik,Boston,201
+1938,NL,Frank McCormick,Cincinnati,209
+1939,AL,Red Rolfe,New York,213
+1939,NL,Frank McCormick,Cincinnati,209
+1940,AL,Doc Cramer,Boston,200
+1940,NL,Stan Hack,Chicago,191
+1941,AL,Cecil Travis,Washington,218
+1941,NL,Stan Hack,Chicago,186
+1942,AL,Johnny Pesky,Boston,205
+1942,NL,Enos Slaughter,St. Louis,188
+1943,AL,Dick Wakefield,Detroit,200
+1943,NL,Stan Musial,St. Louis,220
+1944,AL,Snuffy Stirnweiss,New York,205
+1944,NL,Phil Cavarretta,Chicago,197
+1945,AL,Snuffy Stirnweiss,New York,195
+1945,NL,Tommy Holmes,Boston,224
+1946,AL,Johnny Pesky,Boston,208
+1946,NL,Stan Musial,St. Louis,228
+1947,AL,Johnny Pesky,Boston,207
+1947,NL,Tommy Holmes,Boston,191
+1948,AL,Bob Dillinger,St. Louis,207
+1948,NL,Stan Musial,St. Louis,230
+1949,AL,Dale Mitchell,Cleveland,203
+1949,NL,Stan Musial,St. Louis,207
+1950,AL,George Kell,Detroit,218
+1950,NL,Duke Snider,Brooklyn,199
+1951,AL,George Kell,Detroit,191
+1951,NL,Richie Ashburn,Philadelphia,221
+1952,AL,Nellie Fox,Chicago,192
+1952,NL,Stan Musial,St. Louis,194
+1953,AL,Harvey Kuenn,Detroit,209
+1953,NL,Richie Ashburn,Philadelphia,205
+1954,AL,Nellie Fox,Chicago,201
+1954,NL,Don Mueller,New York,212
+1955,AL,Al Kaline,Detroit,200
+1955,NL,Ted Kluszewski,Cincinnati,192
+1956,AL,Harvey Kuenn,Detroit,196
+1956,NL,Hank Aaron,Milwaukee,200
+1957,AL,Nellie Fox,Chicago,196
+1957,NL,Red Schoendienst,Milwaukee,200
+1958,AL,Nellie Fox,Chicago,187
+1958,NL,Richie Ashburn,Philadelphia,215
+1959,AL,Harvey Kuenn,Detroit,198
+1959,NL,Hank Aaron,Milwaukee,223
+1960,AL,Minnie Minoso,Chicago,184
+1960,NL,Willie Mays,San Francisco,190
+1961,AL,Norm Cash,Detroit,193
+1961,NL,Vada Pinson,Cincinnati,208
+1962,AL,Bobby Richardson,New York,209
+1962,NL,Tommy Davis,Los Angeles,230
+1963,AL,Carl Yastrzemski,Boston,183
+1963,NL,Vada Pinson,Cincinnati,204
+1964,AL,Tony Oliva,Minnesota,217
+1964,NL,Roberto Clemente,Pittsburgh,211
+1965,AL,Tony Oliva,Minnesota,185
+1965,NL,Pete Rose,Cincinnati,209
+1966,AL,Tony Oliva,Minnesota,191
+1966,NL,Felipe Alou,Atlanta,218
+1967,AL,Carl Yastrzemski,Boston,189
+1967,NL,Roberto Clemente,Pittsburgh,209
+1968,AL,Bert Campaneris,Oakland,177
+1968,NL,Felipe Alou,Atlanta,210
+1969,AL,Tony Oliva,Minnesota,197
+1969,NL,Matty Alou,Pittsburgh,231
+1970,AL,Tony Oliva,Minnesota,204
+1970,NL,Pete Rose,Cincinnati,205
+1971,AL,Cesar Tovar,Minnesota,204
+1971,NL,Joe Torre,St. Louis,230
+1972,AL,Joe Rudi,Oakland,181
+1972,NL,Pete Rose,Cincinnati,198
+1973,AL,Rod Carew,Minnesota,203
+1973,NL,Pete Rose,Cincinnati,230
+1974,AL,Rod Carew,Minnesota,218
+1974,NL,Ralph Garr,Atlanta,214
+1975,AL,George Brett,Kansas City,195
+1975,NL,Dave Cash,Philadelphia,213
+1976,AL,George Brett,Kansas City,215
+1976,NL,Pete Rose,Cincinnati,215
+1977,AL,Rod Carew,Minnesota,239
+1977,NL,Dave Parker,Pittsburgh,215
+1978,AL,Jim Rice,Boston,213
+1978,NL,Steve Garvey,Los Angeles,202
+1979,AL,George Brett,Kansas City,212
+1979,NL,Garry Templeton,St. Louis,211
+1980,AL,Willie Wilson,Kansas City,230
+1980,NL,Steve Garvey,Los Angeles,200
+1981,AL,Rickey Henderson,Oakland,135
+1981,NL,Pete Rose,Philadelphia,140
+1982,AL,Robin Yount,Milwaukee,210
+1982,NL,Al Oliver,Montreal,204
+1983,AL,Cal Ripken Jr.,Baltimore,211
+1983,NL,Jose Cruz,Houston,189
+1984,AL,Don Mattingly,New York,207
+1984,NL,Tony Gwynn,San Diego,213
+1985,AL,Wade Boggs,Boston,240
+1985,NL,Willie McGee,St. Louis,216
+1986,AL,Don Mattingly,New York,238
+1986,NL,Tony Gwynn,San Diego,211
+1987,AL,Kirby Puckett,Minnesota,207
+1987,NL,Tony Gwynn,San Diego,218
+1988,AL,Kirby Puckett,Minnesota,234
+1988,NL,Andres Galarraga,Montreal,184
+1989,AL,Kirby Puckett,Minnesota,215
+1989,NL,Tony Gwynn,San Diego,203
+1990,AL,Rafael Palmeiro,Texas,191
+1990,NL,Brett Butler,San Francisco,192
+1991,AL,Paul Molitor,Milwaukee,216
+1991,NL,Terry Pendleton,Atlanta,187
+1992,AL,Kirby Puckett,Minnesota,210
+1992,NL,Terry Pendleton,Atlanta,199
+1993,AL,Paul Molitor,Toronto,211
+1993,NL,Lenny Dykstra,Philadelphia,194
+1994,AL,Kenny Lofton,Cleveland,160
+1994,NL,Tony Gwynn,San Diego,165
+1995,AL,Lance Johnson,Chicago,186
+1995,NL,Dante Bichette,Colorado,197
+1996,AL,Paul Molitor,Minnesota,225
+1996,NL,Lance Johnson,New York,227
+1997,AL,Nomar Garciaparra,Boston,209
+1997,NL,Tony Gwynn,San Diego,220
+1998,AL,Alex Rodriguez,Seattle,213
+1998,NL,Dante Bichette,Colorado,219
+1999,AL,Derek Jeter,New York,219
+1999,NL,Luis Gonzalez,Arizona,206
+2000,AL,Darin Erstad,Anaheim,240
+2000,NL,Todd Helton,Colorado,216
+2001,AL,Ichiro Suzuki,Seattle,242
+2001,NL,Rich Aurilia,San Francisco,206
+2002,AL,Alfonso Soriano,New York,209
+2002,NL,Vladimir Guerrero,Montreal,206
+2003,AL,Vernon Wells,Toronto,215
+2003,NL,Albert Pujols,St. Louis,212
+2004,AL,Ichiro Suzuki,Seattle,262
+2004,NL,Juan Pierre,Florida,221
+2005,AL,Michael Young,Texas,221
+2005,NL,Derrek Lee,Chicago,199
+2006,AL,Ichiro Suzuki,Seattle,224
+2006,NL,Juan Pierre,Chicago,204
+2007,AL,Ichiro Suzuki,Seattle,238
+2007,NL,Matt Holliday,Colorado,216
+2008,AL,Dustin Pedroia,Boston,213
+2008,NL,Jose Reyes,New York,204
+2009,AL,Ichiro Suzuki,Seattle,225
+2009,NL,Ryan Braun,Milwaukee,203
+2010,AL,Ichiro Suzuki,Seattle,214
+2010,NL,Carlos González,Colorado,197
+2011,AL,Adrian Gonzalez,Boston,213
+2011,NL,Starlin Castro,Chicago,207
+2012,AL,Derek Jeter,New York,216
+2012,NL,Andrew McCutchen,Pittsburgh,194
+2013,AL,Adrián Beltré,Texas,199
+2013,NL,Matt Carpenter,St. Louis,199
+2014,AL,Jose Altuve,Houston,225
+2014,NL,Ben Revere,Philadelphia,184
+2015,AL,Jose Altuve,Houston,200
+2015,NL,Dee Strange-Gordon,Miami,205
+2016,AL,Jose Altuve,Houston,216
+2016,NL,Jean Segura,Arizona,203
+2017,AL,Jose Altuve,Houston,204
+2017,NL,Charlie Blackmon,Colorado,213
+2018,AL,Whit Merrifield,Kansas City,192
+2018,NL,Freddie Freeman,Atlanta,191
+2019,AL,Whit Merrifield,Kansas City,206
+2019,NL,Ozzie Albies,Atlanta,189
+2020,AL,José Abreu,Chicago,76
+2020,NL,Trea Turner,Washington,78
+2021,AL,Bo Bichette,Toronto,191
+2021,NL,Trea Turner,Los Angeles,195
+2022,AL,Bo Bichette,Toronto,189
+2022,NL,Freddie Freeman,Los Angeles,199
+2023,AL,Marcus Semien,Texas,185
+2023,NL,Ronald Acuña Jr.,Atlanta,217
+2024,AL,Bobby Witt Jr.,Kansas City,211
+2024,NL,Luis Arraez,Miami,200
+2025,AL,Aaron Judge,New York,99
+2025,NL,Trea Turner,Philadelphia,85
+Year,AL,American League,Team(s),Hits
+Year,NL,National League,Team(s),Hits

@@ -1,0 +1,266 @@
+Year,League,Player,Team,Stolen Bases
+1886,NL,Ed Andrews,Philadelphia,56.0
+1887,NL,John Ward,New York,111.0
+1888,NL,Dummy Hoy,Washington,82.0
+1889,NL,Jim Fogarty,Philadelphia,99.0
+1890,NL,Billy Hamilton,Philadelphia,102.0
+1891,NL,Billy Hamilton,Philadelphia,111.0
+1892,NL,John Ward,Brooklyn,88.0
+1893,NL,Tom Brown,Louisville,66.0
+1894,NL,Billy Hamilton,Philadelphia,98.0
+1895,NL,Billy Hamilton,Philadelphia,97.0
+1896,NL,Joe Kelley,Baltimore,87.0
+1897,NL,Bill Lange,Chicago,73.0
+1898,NL,Ed Delahanty,Philadelphia,58.0
+1899,NL,Jimmy Sheckard,Baltimore,77.0
+1900,NL,Patsy Donovan,St. Louis,45.0
+1901,AL,Frank Isbell,Chicago,52.0
+1901,NL,Honus Wagner,Pittsburgh,49.0
+1902,AL,Topsy Hartsel,Philadelphia,47.0
+1902,NL,Honus Wagner,Pittsburgh,42.0
+1903,AL,Harry Bay,Cleveland,45.0
+1903,NL,Frank Chance,Chicago,67.0
+1904,AL,Harry Bay,Cleveland,38.0
+1904,NL,Honus Wagner,Pittsburgh,53.0
+1905,AL,Danny Hoffman,Philadelphia,46.0
+1905,NL,Art Devlin,New York,59.0
+1906,AL,John Anderson,Washington,39.0
+1906,NL,Frank Chance,Chicago,57.0
+1907,AL,Ty Cobb,Detroit,49.0
+1907,NL,Honus Wagner,Pittsburgh,61.0
+1908,AL,Patsy Dougherty,Chicago,47.0
+1908,NL,Honus Wagner,Pittsburgh,53.0
+1909,AL,Ty Cobb,Detroit,76.0
+1909,NL,Bob Bescher,Cincinnati,54.0
+1910,AL,Eddie Collins,Philadelphia,81.0
+1910,NL,Bob Bescher,Cincinnati,70.0
+1911,AL,Ty Cobb,Detroit,83.0
+1911,NL,Bob Bescher,Cincinnati,80.0
+1912,AL,Clyde Milan,Washington,88.0
+1912,NL,Bob Bescher,Cincinnati,67.0
+1913,AL,Clyde Milan,Washington,75.0
+1913,NL,Max Carey,Pittsburgh,61.0
+1914,AL,Fritz Maisel,New York,74.0
+1914,NL,George Burns,New York,62.0
+1915,AL,Ty Cobb,Detroit,96.0
+1915,NL,Max Carey,Pittsburgh,36.0
+1916,AL,Ty Cobb,Detroit,68.0
+1916,NL,Max Carey,Pittsburgh,63.0
+1917,AL,Ty Cobb,Detroit,55.0
+1917,NL,Max Carey,Pittsburgh,46.0
+1918,AL,George Sisler,St. Louis,45.0
+1918,NL,Max Carey,Pittsburgh,58.0
+1919,AL,Eddie Collins,Chicago,33.0
+1919,NL,George Burns,New York,40.0
+1920,AL,Sam Rice,Washington,63.0
+1920,NL,Max Carey,Pittsburgh,52.0
+1921,AL,George Sisler,St. Louis,35.0
+1921,NL,Frankie Frisch,New York,49.0
+1922,AL,George Sisler,St. Louis,51.0
+1922,NL,Max Carey,Pittsburgh,51.0
+1923,AL,Eddie Collins,Chicago,48.0
+1923,NL,Max Carey,Pittsburgh,51.0
+1924,AL,Eddie Collins,Chicago,42.0
+1924,NL,Max Carey,Pittsburgh,49.0
+1925,AL,Johnny Mostil,Chicago,43.0
+1925,NL,Max Carey,Pittsburgh,46.0
+1926,AL,Johnny Mostil,Chicago,35.0
+1926,NL,Kiki Cuyler,Pittsburgh,35.0
+1927,AL,George Sisler,St. Louis,27.0
+1927,NL,Frankie Frisch,St. Louis,48.0
+1928,AL,Buddy Myer,Boston,30.0
+1928,NL,Kiki Cuyler,Chicago,37.0
+1929,AL,Charlie Gehringer,Detroit,27.0
+1929,NL,Kiki Cuyler,Chicago,43.0
+1930,AL,Marty McManus,Detroit,23.0
+1930,NL,Kiki Cuyler,Chicago,37.0
+1931,AL,Ben Chapman,New York,61.0
+1931,NL,Frankie Frisch,St. Louis,28.0
+1932,AL,Ben Chapman,New York,38.0
+1932,NL,Chuck Klein,Philadelphia,20.0
+1933,AL,Ben Chapman,New York,27.0
+1933,NL,Pepper Martin,St. Louis,26.0
+1934,AL,Billy Werber,Boston,40.0
+1934,NL,Pepper Martin,St. Louis,23.0
+1935,AL,Billy Werber,Boston,29.0
+1935,NL,Augie Galan,Chicago,22.0
+1936,AL,Lyn Lary,St. Louis,37.0
+1936,NL,Pepper Martin,St. Louis,23.0
+1937,AL,Ben Chapman,Boston,35.0
+1937,NL,Augie Galan,Chicago,23.0
+1938,AL,Frankie Crosetti,New York,27.0
+1938,NL,Stan Hack,Chicago,16.0
+1939,AL,George Case,Washington,51.0
+1939,NL,Stan Hack,Chicago,17.0
+1940,AL,George Case,Washington,35.0
+1940,NL,Lonny Frey,Cincinnati,22.0
+1941,AL,George Case,Washington,33.0
+1941,NL,Danny Murtaugh,Philadelphia,18.0
+1942,AL,George Case,Washington,44.0
+1942,NL,Pete Reiser,Brooklyn,20.0
+1943,AL,George Case,Washington,61.0
+1943,NL,Arky Vaughan,Brooklyn,20.0
+1944,AL,Snuffy Stirnweiss,New York,55.0
+1944,NL,Johnny Barrett,Pittsburgh,28.0
+1945,AL,Snuffy Stirnweiss,New York,33.0
+1945,NL,Red Schoendienst,St. Louis,26.0
+1946,AL,George Case,Cleveland,28.0
+1946,NL,Pete Reiser,Brooklyn,34.0
+1947,AL,Bob Dillinger,St. Louis,34.0
+1947,NL,Jackie Robinson,Brooklyn,29.0
+1948,AL,Bob Dillinger,St. Louis,28.0
+1948,NL,Richie Ashburn,Philadelphia,32.0
+1949,AL,Bob Dillinger,St. Louis,20.0
+1949,NL,Jackie Robinson,Brooklyn,37.0
+1950,AL,Dom DiMaggio,Boston,15.0
+1950,NL,Sam Jethroe,Boston,35.0
+1951,AL,Minnie Minoso,Chicago,31.0
+1951,NL,Sam Jethroe,Boston,35.0
+1952,AL,Minnie Minoso,Chicago,22.0
+1952,NL,Pee Wee Reese,Brooklyn,30.0
+1953,AL,Minnie Minoso,Chicago,25.0
+1953,NL,Bill Bruton,Milwaukee,26.0
+1954,AL,Jackie Jensen,Boston,22.0
+1954,NL,Bill Bruton,Milwaukee,34.0
+1955,AL,Jim Rivera,Chicago,25.0
+1955,NL,Bill Bruton,Milwaukee,25.0
+1956,AL,Luis Aparicio,Chicago,21.0
+1956,NL,Willie Mays,New York,40.0
+1957,AL,Luis Aparicio,Chicago,28.0
+1957,NL,Willie Mays,New York,38.0
+1958,AL,Luis Aparicio,Chicago,29.0
+1958,NL,Willie Mays,San Francisco,31.0
+1959,AL,Luis Aparicio,Chicago,56.0
+1959,NL,Willie Mays,San Francisco,27.0
+1960,AL,Luis Aparicio,Chicago,51.0
+1960,NL,Maury Wills,Los Angeles,50.0
+1961,AL,Luis Aparicio,Chicago,53.0
+1961,NL,Maury Wills,Los Angeles,35.0
+1962,AL,Luis Aparicio,Chicago,31.0
+1962,NL,Maury Wills,Los Angeles,104.0
+1963,AL,Luis Aparicio,Baltimore,40.0
+1963,NL,Maury Wills,Los Angeles,40.0
+1964,AL,Luis Aparicio,Baltimore,57.0
+1964,NL,Maury Wills,Los Angeles,53.0
+1965,AL,Bert Campaneris,Kansas City,51.0
+1965,NL,Maury Wills,Los Angeles,94.0
+1966,AL,Bert Campaneris,Kansas City,52.0
+1966,NL,Lou Brock,St. Louis,74.0
+1967,AL,Bert Campaneris,Kansas City,55.0
+1967,NL,Lou Brock,St. Louis,52.0
+1968,AL,Bert Campaneris,Oakland,62.0
+1968,NL,Lou Brock,St. Louis,62.0
+1969,AL,Tommy Harper,Seattle,73.0
+1969,NL,Lou Brock,St. Louis,53.0
+1970,AL,Bert Campaneris,Oakland,42.0
+1970,NL,Bobby Tolan,Cincinnati,57.0
+1971,AL,Amos Otis,Kansas City,52.0
+1971,NL,Lou Brock,St. Louis,64.0
+1972,AL,Bert Campaneris,Oakland,52.0
+1972,NL,Lou Brock,St. Louis,63.0
+1973,AL,Tommy Harper,Boston,54.0
+1973,NL,Lou Brock,St. Louis,70.0
+1974,AL,Bill North,Oakland,54.0
+1974,NL,Lou Brock,St. Louis,118.0
+1975,AL,Mickey Rivers,California,70.0
+1975,NL,Davey Lopes,Los Angeles,77.0
+1976,AL,Bill North,Oakland,75.0
+1976,NL,Davey Lopes,Los Angeles,63.0
+1977,AL,Freddie Patek,Kansas City,53.0
+1977,NL,Frank Taveras,Pittsburgh,70.0
+1978,AL,Ron LeFlore,Detroit,68.0
+1978,NL,Omar Moreno,Pittsburgh,71.0
+1979,AL,Willie Wilson,Kansas City,83.0
+1979,NL,Omar Moreno,Pittsburgh,77.0
+1980,AL,Rickey Henderson,Oakland,100.0
+1980,NL,Ron LeFlore,Montreal,97.0
+1981,AL,Rickey Henderson,Oakland,56.0
+1981,NL,Tim Raines,Montreal,71.0
+1982,AL,Rickey Henderson,Oakland,130.0
+1982,NL,Tim Raines,Montreal,78.0
+1983,AL,Rickey Henderson,Oakland,108.0
+1983,NL,Tim Raines,Montreal,90.0
+1984,AL,Rickey Henderson,Oakland,66.0
+1984,NL,Tim Raines,Montreal,75.0
+1985,AL,Rickey Henderson,New York,80.0
+1985,NL,Vince Coleman,St. Louis,110.0
+1986,AL,Rickey Henderson,New York,87.0
+1986,NL,Vince Coleman,St. Louis,107.0
+1987,AL,Harold Reynolds,Seattle,60.0
+1987,NL,Vince Coleman,St. Louis,109.0
+1988,AL,Rickey Henderson,New York,93.0
+1988,NL,Vince Coleman,St. Louis,81.0
+1989,AL,Rickey Henderson,New York,77.0
+1989,NL,Vince Coleman,St. Louis,65.0
+1990,AL,Rickey Henderson,Oakland,65.0
+1990,NL,Vince Coleman,St. Louis,77.0
+1991,AL,Rickey Henderson,Oakland,58.0
+1991,NL,Marquis Grissom,Montreal,76.0
+1992,AL,Kenny Lofton,Cleveland,66.0
+1992,NL,Marquis Grissom,Montreal,78.0
+1993,AL,Kenny Lofton,Cleveland,70.0
+1993,NL,Chuck Carr,Florida,58.0
+1994,AL,Kenny Lofton,Cleveland,60.0
+1994,NL,Craig Biggio,Houston,39.0
+1995,AL,Kenny Lofton,Cleveland,54.0
+1995,NL,Quilvio Veras,Florida,56.0
+1996,AL,Kenny Lofton,Cleveland,75.0
+1996,NL,Eric Young,Colorado,53.0
+1997,AL,Brian Hunter,Detroit,74.0
+1997,NL,Tony Womack,Pittsburgh,60.0
+1998,AL,Rickey Henderson,Oakland,66.0
+1998,NL,Tony Womack,Pittsburgh,58.0
+1999,AL,Brian Hunter,Detroit,44.0
+1999,NL,Tony Womack,Arizona,72.0
+2000,AL,Johnny Damon,Kansas City,46.0
+2000,NL,Luis Castillo,Florida,62.0
+2001,AL,Ichiro Suzuki,Seattle,56.0
+2001,NL,Juan Pierre,Colorado,46.0
+2002,AL,Alfonso Soriano,New York,41.0
+2002,NL,Luis Castillo,Florida,48.0
+2003,AL,Carl Crawford,Tampa Bay,55.0
+2003,NL,Juan Pierre,Florida,65.0
+2004,AL,Carl Crawford,Tampa Bay,59.0
+2004,NL,Scott Podsednik,Milwaukee,70.0
+2005,AL,Chone Figgins,Los Angeles,62.0
+2005,NL,Jose Reyes,New York,60.0
+2006,AL,Carl Crawford,Tampa Bay,58.0
+2006,NL,Jose Reyes,New York,64.0
+2007,AL,Carl Crawford,Tampa Bay,50.0
+2007,NL,Jose Reyes,New York,78.0
+2008,AL,Jacoby Ellsbury,Boston,50.0
+2008,NL,Willy Taveras,Colorado,68.0
+2009,AL,Jacoby Ellsbury,Boston,70.0
+2009,NL,Michael Bourn,Houston,61.0
+2010,AL,Juan Pierre,Chicago,68.0
+2010,NL,Michael Bourn,Houston,52.0
+2011,AL,Coco Crisp,Oakland,49.0
+2011,NL,Michael Bourn,Atlanta,61.0
+2012,AL,Mike Trout,Los Angeles,49.0
+2012,NL,Everth Cabrera,San Diego,44.0
+2013,AL,Jacoby Ellsbury,Boston,52.0
+2013,NL,Eric Young Jr.,Colorado,46.0
+2014,AL,Jose Altuve,Houston,56.0
+2014,NL,Dee Strange-Gordon,Los Angeles,64.0
+2015,AL,Jose Altuve,Houston,38.0
+2015,NL,Dee Strange-Gordon,Miami,58.0
+2016,AL,Rajai Davis,Cleveland,43.0
+2016,NL,Jonathan Villar,Milwaukee,62.0
+2017,AL,Whit Merrifield,Kansas City,34.0
+2017,NL,Dee Strange-Gordon,Miami,60.0
+2018,AL,Whit Merrifield,Kansas City,45.0
+2018,NL,Trea Turner,Washington,43.0
+2019,AL,Mallex Smith,Seattle,46.0
+2019,NL,Ronald Acuña Jr.,Atlanta,37.0
+2020,AL,Adalberto Mondesi,Kansas City,24.0
+2020,NL,Trevor Story,Colorado,15.0
+2021,AL,Whit Merrifield,Kansas City,40.0
+2021,NL,Trea Turner,Los Angeles,32.0
+2022,AL,Jorge Mateo,Baltimore,35.0
+2022,NL,Jon Berti,Miami,41.0
+2023,AL,Esteury Ruiz,Oakland,67.0
+2023,NL,Ronald Acuña Jr.,Atlanta,73.0
+2024,AL,José Caballero,Tampa Bay,44.0
+2024,NL,Elly De La Cruz,Cincinnati,67.0
+2025,AL,José Caballero,Tampa Bay,25.0
+2025,NL,Oneil Cruz,Pittsburgh,25.0

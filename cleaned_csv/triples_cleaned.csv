@@ -1,0 +1,276 @@
+Year,League,Player,Team,Triples
+1876,NL,Ross Barnes,Chicago,14.0
+1877,NL,Deacon White,Boston,11.0
+1878,NL,Tom York,Providence,10.0
+1879,NL,Buttercup Dickerson,Cincinnati,14.0
+1880,NL,Harry Stovey,Worcester,14.0
+1881,NL,Jack Rowe,Buffalo,11.0
+1882,NL,Roger Connor,Troy,18.0
+1883,NL,Dan Brouthers,Buffalo,17.0
+1884,NL,Buck Ewing,New York,20.0
+1885,NL,Jim O'Rourke,New York,16.0
+1886,NL,Roger Connor,New York,20.0
+1887,NL,Sam Thompson,Detroit,23.0
+1888,NL,Dick Johnston,Boston,18.0
+1889,NL,Walt Wilmot,Washington,19.0
+1890,NL,John Reilly,Cincinnati,26.0
+1891,NL,Harry Stovey,Boston,20.0
+1892,NL,Ed Delahanty,Philadelphia,21.0
+1893,NL,Perry Werden,St. Louis,29.0
+1894,NL,Heinie Reitz,Baltimore,31.0
+1895,NL,Kip Selbach,Washington,22.0
+1896,NL,Tom McCreery,Louisville,21.0
+1897,NL,Harry Davis,Pittsburgh,28.0
+1898,NL,John Anderson,Brooklyn,22.0
+1899,NL,Jimmy Williams,Pittsburgh,27.0
+1900,NL,Honus Wagner,Pittsburgh,22.0
+1901,AL,Bill Keister,Baltimore,21.0
+1901,NL,Jimmy Sheckard,Brooklyn,19.0
+1902,AL,Jimmy Williams,Baltimore,21.0
+1902,NL,Sam Crawford,Cincinnati,22.0
+1903,AL,Sam Crawford,Detroit,25.0
+1903,NL,Honus Wagner,Pittsburgh,19.0
+1904,AL,Joe Cassidy,Washington,19.0
+1904,NL,Harry Lumley,Brooklyn,18.0
+1905,AL,Elmer Flick,Cleveland,18.0
+1905,NL,Cy Seymour,Cincinnati,21.0
+1906,AL,Elmer Flick,Cleveland,22.0
+1906,NL,Fred Clarke,Pittsburgh,13.0
+1907,AL,Elmer Flick,Cleveland,18.0
+1907,NL,Whitey Alperman,Brooklyn,16.0
+1908,AL,Ty Cobb,Detroit,20.0
+1908,NL,Honus Wagner,Pittsburgh,19.0
+1909,AL,Home Run Baker,Philadelphia,19.0
+1909,NL,Mike Mitchell,Cincinnati,17.0
+1910,AL,Sam Crawford,Detroit,19.0
+1910,NL,Mike Mitchell,Cincinnati,18.0
+1911,AL,Ty Cobb,Detroit,24.0
+1911,NL,Larry Doyle,New York,25.0
+1912,AL,Joe Jackson,Cleveland,26.0
+1912,NL,Chief Wilson,Pittsburgh,36.0
+1913,AL,Sam Crawford,Detroit,23.0
+1913,NL,Vic Saier,Chicago,21.0
+1914,AL,Sam Crawford,Detroit,26.0
+1914,NL,Max Carey,Pittsburgh,17.0
+1915,AL,Sam Crawford,Detroit,19.0
+1915,NL,Tom Long,St. Louis,25.0
+1916,AL,Joe Jackson,Chicago,21.0
+1916,NL,Bill Hinchman,Pittsburgh,16.0
+1917,AL,Ty Cobb,Detroit,24.0
+1917,NL,Rogers Hornsby,St. Louis,17.0
+1918,AL,Ty Cobb,Detroit,14.0
+1918,NL,Jake Daubert,Brooklyn,15.0
+1919,AL,Bobby Veach,Detroit,17.0
+1919,NL,Hy Myers,Brooklyn,14.0
+1920,AL,Joe Jackson,Chicago,20.0
+1920,NL,Hy Myers,Brooklyn,22.0
+1921,AL,Howie Shanks,Washington,18.0
+1921,NL,Rogers Hornsby,St. Louis,18.0
+1922,AL,George Sisler,St. Louis,18.0
+1922,NL,Jake Daubert,Cincinnati,22.0
+1923,AL,Goose Goslin,Washington,18.0
+1923,NL,Max Carey,Pittsburgh,19.0
+1924,AL,Wally Pipp,New York,19.0
+1924,NL,Edd Roush,Cincinnati,21.0
+1925,AL,Goose Goslin,Washington,20.0
+1925,NL,Kiki Cuyler,Pittsburgh,26.0
+1926,AL,Lou Gehrig,New York,20.0
+1926,NL,Paul Waner,Pittsburgh,22.0
+1927,AL,Earle Combs,New York,23.0
+1927,NL,Paul Waner,Pittsburgh,18.0
+1928,AL,Earle Combs,New York,21.0
+1928,NL,Jim Bottomley,St. Louis,20.0
+1929,AL,Charlie Gehringer,Detroit,19.0
+1929,NL,Lloyd Waner,Pittsburgh,20.0
+1930,AL,Earle Combs,New York,22.0
+1930,NL,Adam Comorosky,Pittsburgh,23.0
+1931,AL,Roy Johnson,Detroit,19.0
+1931,NL,Bill Terry,New York,20.0
+1932,AL,Joe Cronin,Washington,18.0
+1932,NL,Babe Herman,Cincinnati,19.0
+1933,AL,Heinie Manush,Washington,17.0
+1933,NL,Arky Vaughan,Pittsburgh,19.0
+1934,AL,Ben Chapman,New York,13.0
+1934,NL,Joe Medwick,St. Louis,18.0
+1935,AL,Joe Vosmik,Cleveland,20.0
+1935,NL,Ival Goodman,Cincinnati,18.0
+1936,AL,Earl Averill,Cleveland,15.0
+1936,NL,Ival Goodman,Cincinnati,14.0
+1937,AL,Mike Kreevich,Chicago,16.0
+1937,NL,Arky Vaughan,Pittsburgh,17.0
+1938,AL,Jeff Heath,Cleveland,18.0
+1938,NL,Johnny Mize,St. Louis,16.0
+1939,AL,Buddy Lewis,Washington,16.0
+1939,NL,Billy Herman,Chicago,18.0
+1940,AL,Barney McCosky,Detroit,19.0
+1940,NL,Arky Vaughan,Pittsburgh,15.0
+1941,AL,Jeff Heath,Cleveland,20.0
+1941,NL,Pete Reiser,Brooklyn,17.0
+1942,AL,Stan Spence,Washington,15.0
+1942,NL,Enos Slaughter,St. Louis,17.0
+1943,AL,Johnny Lindell,New York,12.0
+1943,NL,Stan Musial,St. Louis,20.0
+1944,AL,Johnny Lindell,New York,16.0
+1944,NL,Johnny Barrett,Pittsburgh,19.0
+1945,AL,Snuffy Stirnweiss,New York,22.0
+1945,NL,Luis Olmo,Brooklyn,13.0
+1946,AL,Hank Edwards,Cleveland,16.0
+1946,NL,Stan Musial,St. Louis,20.0
+1947,AL,Tommy Henrich,New York,13.0
+1947,NL,Harry Walker,Philadelphia,16.0
+1948,AL,Tommy Henrich,New York,14.0
+1948,NL,Stan Musial,St. Louis,18.0
+1949,AL,Dale Mitchell,Cleveland,23.0
+1949,NL,Stan Musial,St. Louis,13.0
+1950,AL,Dom DiMaggio,Boston,11.0
+1950,NL,Richie Ashburn,Philadelphia,14.0
+1951,AL,Minnie Minoso,Chicago,14.0
+1951,NL,Gus Bell,Pittsburgh,12.0
+1952,AL,Bobby Avila,Cleveland,11.0
+1952,NL,Bobby Thomson,New York,14.0
+1953,AL,Jim Rivera,Chicago,16.0
+1953,NL,Jim Gilliam,Brooklyn,17.0
+1954,AL,Minnie Minoso,Chicago,18.0
+1954,NL,Willie Mays,New York,13.0
+1955,AL,Andy Carey,New York,11.0
+1955,NL,Dale Long,Pittsburgh,13.0
+1956,AL,Jackie Jensen,Boston,11.0
+1956,NL,Bill Bruton,Milwaukee,15.0
+1957,AL,Hank Bauer,New York,9.0
+1957,NL,Willie Mays,New York,20.0
+1958,AL,Vic Power,Cleveland,10.0
+1958,NL,Richie Ashburn,Philadelphia,13.0
+1959,AL,Bob Allison,Washington,9.0
+1959,NL,Wally Moon,Los Angeles,11.0
+1960,AL,Nellie Fox,Chicago,10.0
+1960,NL,Bill Bruton,Milwaukee,13.0
+1961,AL,Jake Wood,Detroit,14.0
+1961,NL,George Altman,Chicago,12.0
+1962,AL,Gino Cimoli,Kansas City,15.0
+1962,NL,Johnny Callison,Philadelphia,10.0
+1963,AL,Zoilo Versalles,Minnesota,13.0
+1963,NL,Vada Pinson,Cincinnati,14.0
+1964,AL,Rich Rollins,Minnesota,10.0
+1964,NL,Dick Allen,Philadelphia,13.0
+1965,AL,Bert Campaneris,Kansas City,12.0
+1965,NL,Johnny Callison,Philadelphia,16.0
+1966,AL,Bobby Knoop,California,11.0
+1966,NL,Tim McCarver,St. Louis,13.0
+1967,AL,Paul Blair,Baltimore,12.0
+1967,NL,Vada Pinson,Cincinnati,13.0
+1968,AL,Jim Fregosi,California,13.0
+1968,NL,Lou Brock,St. Louis,14.0
+1969,AL,Del Unser,Washington,8.0
+1969,NL,Roberto Clemente,Pittsburgh,12.0
+1970,AL,Cesar Tovar,Minnesota,13.0
+1970,NL,Willie Davis,Los Angeles,16.0
+1971,AL,Freddie Patek,Kansas City,11.0
+1971,NL,Roger Metzger,Houston,11.0
+1972,AL,Carlton Fisk,Boston,9.0
+1972,NL,Larry Bowa,Philadelphia,13.0
+1973,AL,Al Bumbry,Baltimore,11.0
+1973,NL,Roger Metzger,Houston,14.0
+1974,AL,Mickey Rivers,California,11.0
+1974,NL,Ralph Garr,Atlanta,17.0
+1975,AL,George Brett,Kansas City,13.0
+1975,NL,Ralph Garr,Atlanta,11.0
+1976,AL,George Brett,Kansas City,14.0
+1976,NL,Dave Cash,Philadelphia,12.0
+1977,AL,Rod Carew,Minnesota,16.0
+1977,NL,Garry Templeton,St. Louis,18.0
+1978,AL,Jim Rice,Boston,15.0
+1978,NL,Garry Templeton,St. Louis,13.0
+1979,AL,George Brett,Kansas City,20.0
+1979,NL,Garry Templeton,St. Louis,19.0
+1980,AL,Alfredo Griffin,Toronto,15.0
+1980,NL,Omar Moreno,Pittsburgh,13.0
+1981,AL,John Castino,Minnesota,9.0
+1981,NL,Craig Reynolds,Houston,12.0
+1982,AL,Willie Wilson,Kansas City,15.0
+1982,NL,Dickie Thon,Houston,10.0
+1983,AL,Robin Yount,Milwaukee,10.0
+1983,NL,Brett Butler,Atlanta,13.0
+1984,AL,Dave Collins,Toronto,15.0
+1984,NL,Juan Samuel,Philadelphia,19.0
+1985,AL,Willie Wilson,Kansas City,21.0
+1985,NL,Willie McGee,St. Louis,18.0
+1986,AL,Brett Butler,Cleveland,14.0
+1986,NL,Mitch Webster,Montreal,13.0
+1987,AL,Willie Wilson,Kansas City,15.0
+1987,NL,Juan Samuel,Philadelphia,15.0
+1988,AL,Harold Reynolds,Seattle,11.0
+1988,NL,Andy Van Slyke,Pittsburgh,15.0
+1989,AL,Ruben Sierra,Texas,14.0
+1989,NL,Robby Thompson,San Francisco,11.0
+1990,AL,Tony Fernandez,Toronto,17.0
+1990,NL,Mariano Duncan,Cincinnati,11.0
+1991,AL,Lance Johnson,Chicago,13.0
+1991,NL,Ray Lankford,St. Louis,15.0
+1992,AL,Lance Johnson,Chicago,12.0
+1992,NL,Deion Sanders,Atlanta,14.0
+1993,AL,Lance Johnson,Chicago,14.0
+1993,NL,Steve Finley,Houston,13.0
+1994,AL,Lance Johnson,Chicago,14.0
+1994,NL,Brett Butler,Los Angeles,9.0
+1995,AL,Kenny Lofton,Cleveland,13.0
+1995,NL,Brett Butler,Los Angeles,9.0
+1996,AL,Chuck Knoblauch,Minnesota,14.0
+1996,NL,Lance Johnson,New York,21.0
+1997,AL,Nomar Garciaparra,Boston,11.0
+1997,NL,Delino DeShields,St. Louis,14.0
+1998,AL,Jose Offerman,Kansas City,13.0
+1998,NL,David Dellucci,Arizona,12.0
+1999,AL,Jose Offerman,Boston,11.0
+1999,NL,Bobby Abreu,Philadelphia,11.0
+2000,AL,Cristian Guzman,Minnesota,20.0
+2000,NL,Tony Womack,Arizona,14.0
+2001,AL,Cristian Guzman,Minnesota,14.0
+2001,NL,Jimmy Rollins,Philadelphia,12.0
+2002,AL,Johnny Damon,Boston,11.0
+2002,NL,Jimmy Rollins,Philadelphia,10.0
+2003,AL,Cristian Guzman,Minnesota,14.0
+2003,NL,Steve Finley,Arizona,10.0
+2004,AL,Carl Crawford,Tampa Bay,19.0
+2004,NL,Juan Pierre,Florida,12.0
+2005,AL,Carl Crawford,Tampa Bay,15.0
+2005,NL,Jose Reyes,New York,17.0
+2006,AL,Carl Crawford,Tampa Bay,16.0
+2006,NL,Jose Reyes,New York,17.0
+2007,AL,Curtis Granderson,Detroit,23.0
+2007,NL,Jimmy Rollins,Philadelphia,20.0
+2008,AL,Curtis Granderson,Detroit,13.0
+2008,NL,Jose Reyes,New York,19.0
+2009,AL,Jacoby Ellsbury,Boston,10.0
+2009,NL,Shane Victorino,Philadelphia,13.0
+2010,AL,Carl Crawford,Tampa Bay,13.0
+2010,NL,Dexter Fowler,Colorado,14.0
+2011,AL,Peter Bourjos,Los Angeles,11.0
+2011,NL,Jose Reyes,New York,16.0
+2012,AL,Austin Jackson,Detroit,10.0
+2012,NL,Angel Pagan,San Francisco,15.0
+2013,AL,Brett Gardner,New York,10.0
+2013,NL,Denard Span,Washington,11.0
+2014,AL,Michael Bourn,Cleveland,10.0
+2014,NL,Dee Strange-Gordon,Los Angeles,12.0
+2015,AL,Eddie Rosario,Minnesota,15.0
+2015,NL,David Peralta,Arizona,10.0
+2016,AL,Adam Eaton,Chicago,9.0
+2016,NL,Brandon Crawford,San Francisco,11.0
+2017,AL,Nick Castellanos,Detroit,10.0
+2017,NL,Charlie Blackmon,Colorado,14.0
+2018,AL,Yolmer Sanchez,Chicago,10.0
+2018,NL,Ketel Marte,Arizona,12.0
+2019,AL,Hunter Dozier,Kansas City,10.0
+2019,NL,Eduardo Escobar,Arizona,10.0
+2020,AL,Kyle Tucker,Houston,6.0
+2020,NL,Trevor Story,Colorado,4.0
+2021,AL,Shohei Ohtani,Los Angeles,8.0
+2021,NL,David Peralta,Arizona,8.0
+2022,AL,Amed Rosario,Cleveland,9.0
+2022,NL,Gavin Lux,Los Angeles,7.0
+2023,AL,Bobby Witt Jr.,Kansas City,11.0
+2023,NL,Corbin Carroll,Arizona,10.0
+2024,AL,Jarren Duran,Boston,14.0
+2024,NL,Corbin Carroll,Arizona,14.0
+2025,AL,Jarren Duran,Boston,7.0
+2025,NL,Corbin Carroll,Arizona,8.0

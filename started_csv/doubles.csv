@@ -1,0 +1,305 @@
+Year,League,Player,Team,Doubles
+Year,AL,American League,Team(s),Doubles
+Year,NL,National League,Team(s),Doubles
+1876,AL,-,-,-
+1876,NL,Ross Barnes,Chicago,21
+1877,AL,-,-,-
+1877,NL,Cap Anson,Chicago,19
+1878,AL,-,-,-
+1878,NL,Dick Higham,Providence,22
+1879,AL,-,-,-
+1879,NL,Charlie Eden,Cleveland,31
+1880,AL,-,-,-
+1880,NL,Fred Dunlap,Cleveland,27
+1881,AL,-,-,-
+1881,NL,Paul Hines,Providence,27
+1882,AL,-,-,-
+1882,NL,King Kelly,Chicago,37
+1883,AL,-,-,-
+1883,NL,Ned Williamson,Chicago,49
+1884,AL,-,-,-
+1884,NL,Paul Hines,Providence,36
+1885,AL,-,-,-
+1885,NL,Cap Anson,Chicago,35
+1886,AL,-,-,-
+1886,NL,Dan Brouthers,Detroit,40
+1887,AL,-,-,-
+1887,NL,Dan Brouthers,Detroit,36
+1888,AL,-,-,-
+1888,NL,Dan Brouthers,Detroit,33
+1889,AL,-,-,-
+1889,NL,King Kelly,Boston,41
+1890,AL,-,-,-
+1890,NL,Sam Thompson,Philadelphia,41
+1891,AL,-,-,-
+1891,NL,Mike Griffin,Brooklyn,36
+1892,AL,-,-,-
+1892,NL,Roger Connor,Philadelphia,37
+1893,AL,-,-,-
+1893,NL,Sam Thompson,Philadelphia,37
+1894,AL,-,-,-
+1894,NL,Hugh Duffy,Boston,51
+1895,AL,-,-,-
+1895,NL,Ed Delahanty,Philadelphia,49
+1896,AL,-,-,-
+1896,NL,Ed Delahanty,Philadelphia,44
+1897,AL,-,-,-
+1897,NL,Jake Stenzel,Baltimore,43
+1898,AL,-,-,-
+1898,NL,Nap Lajoie,Philadelphia,43
+1899,AL,-,-,-
+1899,NL,Ed Delahanty,Philadelphia,55
+1900,AL,-,-,-
+1900,NL,Honus Wagner,Pittsburgh,45
+1901,AL,Nap Lajoie,Philadelphia,48
+1901,NL,Tom Daly,Brooklyn,38
+1902,AL,Harry Davis,Philadelphia,43
+1902,NL,Honus Wagner,Pittsburgh,30
+1903,AL,Socks Seybold,Philadelphia,45
+1903,NL,Fred Clarke,Pittsburgh,32
+1904,AL,Nap Lajoie,Cleveland,49
+1904,NL,Honus Wagner,Pittsburgh,44
+1905,AL,Harry Davis,Philadelphia,47
+1905,NL,Cy Seymour,Cincinnati,40
+1906,AL,Nap Lajoie,Cleveland,48
+1906,NL,Honus Wagner,Pittsburgh,38
+1907,AL,Harry Davis,Philadelphia,35
+1907,NL,Honus Wagner,Pittsburgh,38
+1908,AL,Ty Cobb,Detroit,36
+1908,NL,Honus Wagner,Pittsburgh,39
+1909,AL,Sam Crawford,Detroit,35
+1909,NL,Honus Wagner,Pittsburgh,39
+1910,AL,Nap Lajoie,Cleveland,51
+1910,NL,Bobby Byrne,Pittsburgh,43
+1911,AL,Ty Cobb,Detroit,47
+1911,NL,Ed Konetchy,St. Louis,38
+1912,AL,Tris Speaker,Boston,53
+1912,NL,Heinie Zimmerman,Chicago,41
+1913,AL,Joe Jackson,Cleveland,39
+1913,NL,Red Smith,Brooklyn,40
+1914,AL,Tris Speaker,Boston,46
+1914,NL,Sherry Magee,Philadelphia,39
+1915,AL,Bobby Veach,Detroit,40
+1915,NL,Larry Doyle,New York,40
+1916,AL,Jack Graney,Cleveland,41
+1916,NL,Bert Niehoff,Philadelphia,42
+1917,AL,Ty Cobb,Detroit,44
+1917,NL,Heinie Groh,Cincinnati,39
+1918,AL,Tris Speaker,Cleveland,33
+1918,NL,Heinie Groh,Cincinnati,28
+1919,AL,Bobby Veach,Detroit,45
+1919,NL,Ross Youngs,New York,31
+1920,AL,Tris Speaker,Cleveland,50
+1920,NL,Rogers Hornsby,St. Louis,44
+1921,AL,Tris Speaker,Cleveland,52
+1921,NL,Rogers Hornsby,St. Louis,44
+1922,AL,Tris Speaker,Cleveland,48
+1922,NL,Rogers Hornsby,St. Louis,46
+1923,AL,Tris Speaker,Cleveland,59
+1923,NL,Edd Roush,Cincinnati,41
+1924,AL,Harry Heilmann,Detroit,45
+1924,NL,Rogers Hornsby,St. Louis,43
+1925,AL,Marty McManus,St. Louis,44
+1925,NL,Jim Bottomley,St. Louis,44
+1926,AL,George Burns,Cleveland,64
+1926,NL,Jim Bottomley,St. Louis,40
+1927,AL,Lou Gehrig,New York,52
+1927,NL,Riggs Stephenson,Chicago,46
+1928,AL,Lou Gehrig,New York,47
+1928,NL,Paul Waner,Pittsburgh,50
+1929,AL,Charlie Gehringer,Detroit,45
+1929,NL,Johnny Frederick,Brooklyn,52
+1930,AL,Johnny Hodapp,Cleveland,51
+1930,NL,Chuck Klein,Philadelphia,59
+1931,AL,Earl Webb,Boston,67
+1931,NL,Sparky Adams,St. Louis,46
+1932,AL,Eric McNair,Philadelphia,47
+1932,NL,Paul Waner,Pittsburgh,62
+1933,AL,Joe Cronin,Washington,45
+1933,NL,Chuck Klein,Philadelphia,44
+1934,AL,Hank Greenberg,Detroit,63
+1934,NL,Ethan Allen,Philadelphia,42
+1935,AL,Joe Vosmik,Cleveland,47
+1935,NL,Billy Herman,Chicago,57
+1936,AL,Charlie Gehringer,Detroit,60
+1936,NL,Joe Medwick,St. Louis,64
+1937,AL,Beau Bell,St. Louis,51
+1937,NL,Joe Medwick,St. Louis,56
+1938,AL,Joe Cronin,Boston,51
+1938,NL,Joe Medwick,St. Louis,47
+1939,AL,Red Rolfe,New York,46
+1939,NL,Enos Slaughter,St. Louis,52
+1940,AL,Hank Greenberg,Detroit,50
+1940,NL,Frank McCormick,Cincinnati,44
+1941,AL,Lou Boudreau,Cleveland,45
+1941,NL,Johnny Mize,St. Louis,39
+1942,AL,Don Kolloway,Chicago,40
+1942,NL,Marty Marion,St. Louis,38
+1943,AL,Dick Wakefield,Detroit,38
+1943,NL,Stan Musial,St. Louis,48
+1944,AL,Lou Boudreau,Cleveland,45
+1944,NL,Stan Musial,St. Louis,51
+1945,AL,Wally Moses,Chicago,35
+1945,NL,Tommy Holmes,Boston,47
+1946,AL,Mickey Vernon,Washington,51
+1946,NL,Stan Musial,St. Louis,50
+1947,AL,Lou Boudreau,Cleveland,45
+1947,NL,Eddie Miller,Cincinnati,38
+1948,AL,Ted Williams,Boston,44
+1948,NL,Stan Musial,St. Louis,46
+1949,AL,Ted Williams,Boston,39
+1949,NL,Stan Musial,St. Louis,41
+1950,AL,George Kell,Detroit,56
+1950,NL,Red Schoendienst,St. Louis,43
+1951,AL,George Kell,Detroit,36
+1951,NL,Alvin Dark,New York,41
+1952,AL,Ferris Fain,Philadelphia,43
+1952,NL,Stan Musial,St. Louis,42
+1953,AL,Mickey Vernon,Washington,43
+1953,NL,Stan Musial,St. Louis,53
+1954,AL,Mickey Vernon,Washington,33
+1954,NL,Stan Musial,St. Louis,41
+1955,AL,Harvey Kuenn,Detroit,38
+1955,NL,Hank Aaron,Milwaukee,37
+1956,AL,Jim Piersall,Boston,40
+1956,NL,Hank Aaron,Milwaukee,34
+1957,AL,Billy Gardner,Baltimore,36
+1957,NL,Don Hoak,Cincinnati,39
+1958,AL,Harvey Kuenn,Detroit,39
+1958,NL,Orlando Cepeda,San Francisco,38
+1959,AL,Harvey Kuenn,Detroit,42
+1959,NL,Vada Pinson,Cincinnati,47
+1960,AL,Tito Francona,Cleveland,36
+1960,NL,Vada Pinson,Cincinnati,37
+1961,AL,Al Kaline,Detroit,41
+1961,NL,Hank Aaron,Milwaukee,39
+1962,AL,Floyd Robinson,Chicago,45
+1962,NL,Frank Robinson,Cincinnati,51
+1963,AL,Carl Yastrzemski,Boston,40
+1963,NL,Dick Groat,St. Louis,43
+1964,AL,Tony Oliva,Minnesota,43
+1964,NL,Lee Maye,Milwaukee,44
+1965,AL,Zoilo Versalles,Minnesota,45
+1965,NL,Hank Aaron,Milwaukee,40
+1966,AL,Carl Yastrzemski,Boston,39
+1966,NL,Johnny Callison,Philadelphia,40
+1967,AL,Tony Oliva,Minnesota,34
+1967,NL,Rusty Staub,Houston,44
+1968,AL,Reggie Smith,Boston,37
+1968,NL,Lou Brock,St. Louis,46
+1969,AL,Tony Oliva,Minnesota,39
+1969,NL,Matty Alou,Pittsburgh,41
+1970,AL,Tony Oliva,Minnesota,36
+1970,NL,Wes Parker,Los Angeles,47
+1971,AL,Reggie Smith,Boston,33
+1971,NL,Cesar Cedeno,Houston,40
+1972,AL,Lou Piniella,Kansas City,33
+1972,NL,Cesar Cedeno,Houston,39
+1973,AL,Sal Bando,Oakland,32
+1973,NL,Willie Stargell,Pittsburgh,43
+1974,AL,Joe Rudi,Oakland,39
+1974,NL,Pete Rose,Cincinnati,45
+1975,AL,Fred Lynn,Boston,47
+1975,NL,Pete Rose,Cincinnati,47
+1976,AL,Amos Otis,Kansas City,40
+1976,NL,Pete Rose,Cincinnati,42
+1977,AL,Hal McRae,Kansas City,54
+1977,NL,Dave Parker,Pittsburgh,44
+1978,AL,George Brett,Kansas City,45
+1978,NL,Pete Rose,Cincinnati,51
+1979,AL,Cecil Cooper,Milwaukee,44
+1979,NL,Keith Hernandez,St. Louis,48
+1980,AL,Robin Yount,Milwaukee,49
+1980,NL,Pete Rose,Philadelphia,42
+1981,AL,Cecil Cooper,Milwaukee,35
+1981,NL,Bill Buckner,Chicago,35
+1982,AL,Hal McRae,Kansas City,46
+1982,NL,Al Oliver,Montreal,43
+1983,AL,Cal Ripken Jr.,Baltimore,47
+1983,NL,Bill Buckner,Chicago,38
+1984,AL,Don Mattingly,New York,44
+1984,NL,Tim Raines,Montreal,38
+1985,AL,Don Mattingly,New York,48
+1985,NL,Dave Parker,Cincinnati,42
+1986,AL,Don Mattingly,New York,53
+1986,NL,Von Hayes,Philadelphia,46
+1987,AL,Paul Molitor,Milwaukee,41
+1987,NL,Tim Wallach,Montreal,42
+1988,AL,Wade Boggs,Boston,45
+1988,NL,Andres Galarraga,Montreal,42
+1989,AL,Wade Boggs,Boston,51
+1989,NL,Pedro Guerrero,St. Louis,42
+1990,AL,George Brett,Kansas City,45
+1990,NL,Gregg Jefferies,New York,40
+1991,AL,Rafael Palmeiro,Texas,49
+1991,NL,Bobby Bonilla,Pittsburgh,44
+1992,AL,Edgar Martinez,Seattle,46
+1992,NL,Andy Van Slyke,Pittsburgh,45
+1993,AL,John Olerud,Toronto,54
+1993,NL,Charlie Hayes,Colorado,45
+1994,AL,Chuck Knoblauch,Minnesota,45
+1994,NL,Craig Biggio,Houston,44
+1995,AL,Albert Belle,Cleveland,52
+1995,NL,Mark Grace,Chicago,51
+1996,AL,Alex Rodriguez,Seattle,54
+1996,NL,Jeff Bagwell,Houston,48
+1997,AL,John Valentin,Boston,47
+1997,NL,Mark Grudzielanek,Montreal,54
+1998,AL,Juan Gonzalez,Texas,50
+1998,NL,Craig Biggio,Houston,51
+1999,AL,Shawn Green,Toronto,45
+1999,NL,Craig Biggio,Houston,56
+2000,AL,Carlos Delgado,Toronto,57
+2000,NL,Todd Helton,Colorado,59
+2001,AL,Jason Giambi,Oakland,47
+2001,NL,Lance Berkman,Houston,55
+2002,AL,Garret Anderson,Anaheim,56
+2002,NL,Bobby Abreu,Philadelphia,50
+2003,AL,Garret Anderson,Anaheim,49
+2003,NL,Albert Pujols,St. Louis,51
+2004,AL,Brian Roberts,Baltimore,50
+2004,NL,Lyle Overbay,Milwaukee,53
+2005,AL,Miguel Tejada,Baltimore,50
+2005,NL,Derrek Lee,Chicago,50
+2006,AL,Grady Sizemore,Cleveland,53
+2006,NL,Freddy Sanchez,Pittsburgh,53
+2007,AL,Magglio Ordonez,Detroit,54
+2007,NL,Matt Holliday,Colorado,50
+2008,AL,Dustin Pedroia,Boston,54
+2008,NL,Lance Berkman,Houston,46
+2009,AL,Brian Roberts,Baltimore,56
+2009,NL,Miguel Tejada,Houston,46
+2010,AL,Adrián Beltré,Boston,49
+2010,NL,Jayson Werth,Philadelphia,46
+2011,AL,Miguel Cabrera,Detroit,48
+2011,NL,Joey Votto,Cincinnati,40
+2012,AL,Alex Gordon,Kansas City,51
+2012,NL,Aramis Ramirez,Milwaukee,50
+2013,AL,Manny Machado,Baltimore,51
+2013,NL,Matt Carpenter,St. Louis,55
+2014,AL,Miguel Cabrera,Detroit,52
+2014,NL,Jonathan Lucroy,Milwaukee,53
+2015,AL,Michael Brantley,Cleveland,45
+2015,NL,Matt Carpenter,St. Louis,44
+2016,AL,David Ortiz,Boston,48
+2016,NL,Daniel Murphy,Washington,47
+2017,AL,José Ramírez,Cleveland,56
+2017,NL,Nolan Arenado,Colorado,43
+2018,AL,Alex Bregman,Houston,51
+2018,NL,Freddie Freeman,Atlanta,44
+2019,AL,Rafael Devers,Boston,54
+2019,NL,Anthony Rendon,Washington,44
+2020,AL,César Hernández,Cleveland,20
+2020,NL,Freddie Freeman,Atlanta,23
+2021,AL,Jeimer Candelario,Detroit,42
+2021,NL,Bryce Harper,Philadelphia,42
+2022,AL,José Ramírez,Cleveland,44
+2022,NL,Freddie Freeman,Los Angeles,47
+2023,AL,Corey Seager,Texas,42
+2023,NL,Freddie Freeman,Los Angeles,59
+2024,AL,Jarren Duran,Boston,48
+2024,NL,Ezequiel Tovar,Colorado,45
+2025,AL,Lawrence Butler,Sacramento,23
+2025,NL,Pete Alonso,New York,22
+Year,AL,American League,Team(s),Doubles
+Year,NL,National League,Team(s),Doubles

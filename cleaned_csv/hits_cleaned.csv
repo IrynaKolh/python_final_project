@@ -1,0 +1,276 @@
+Year,League,Player,Team,Hits
+1876,NL,Ross Barnes,Chicago,138.0
+1877,NL,Deacon White,Boston,103.0
+1878,NL,Joe Start,Chicago,100.0
+1879,NL,Paul Hines,Providence,146.0
+1880,NL,Abner Dalrymple,Chicago,126.0
+1881,NL,Cap Anson,Chicago,137.0
+1882,NL,Dan Brouthers,Buffalo,129.0
+1883,NL,Dan Brouthers,Buffalo,159.0
+1884,NL,Jim O'Rourke,Buffalo,162.0
+1885,NL,Roger Connor,New York,169.0
+1886,NL,Hardy Richardson,Detroit,189.0
+1887,NL,Sam Thompson,Detroit,171.0
+1888,NL,Jimmy Ryan,Chicago,182.0
+1889,NL,Jack Glasscock,Indianapolis,205.0
+1890,NL,Jack Glasscock,New York,172.0
+1891,NL,Billy Hamilton,Philadelphia,179.0
+1892,NL,Dan Brouthers,Brooklyn,197.0
+1893,NL,Sam Thompson,Philadelphia,222.0
+1894,NL,Hugh Duffy,Boston,237.0
+1895,NL,Jesse Burkett,Cleveland,225.0
+1896,NL,Jesse Burkett,Cleveland,240.0
+1897,NL,Willie Keeler,Baltimore,239.0
+1898,NL,Willie Keeler,Baltimore,216.0
+1899,NL,Ed Delahanty,Philadelphia,238.0
+1900,NL,Willie Keeler,Brooklyn,204.0
+1901,AL,Nap Lajoie,Philadelphia,229.0
+1901,NL,Jesse Burkett,St. Louis,226.0
+1902,AL,Charlie Hickman,Boston,193.0
+1902,NL,Ginger Beaumont,Pittsburgh,193.0
+1903,AL,Patsy Dougherty,Boston,195.0
+1903,NL,Ginger Beaumont,Pittsburgh,209.0
+1904,AL,Nap Lajoie,Cleveland,211.0
+1904,NL,Ginger Beaumont,Pittsburgh,185.0
+1905,AL,George Stone,St. Louis,187.0
+1905,NL,Cy Seymour,Cincinnati,219.0
+1906,AL,Nap Lajoie,Cleveland,214.0
+1906,NL,Harry Steinfeldt,Chicago,176.0
+1907,AL,Ty Cobb,Detroit,212.0
+1907,NL,Ginger Beaumont,Boston,187.0
+1908,AL,Ty Cobb,Detroit,188.0
+1908,NL,Honus Wagner,Pittsburgh,201.0
+1909,AL,Ty Cobb,Detroit,216.0
+1909,NL,Larry Doyle,New York,172.0
+1910,AL,Nap Lajoie,Cleveland,227.0
+1910,NL,Bobby Byrne,Pittsburgh,178.0
+1911,AL,Ty Cobb,Detroit,248.0
+1911,NL,Doc Miller,Boston,192.0
+1912,AL,Ty Cobb,Detroit,226.0
+1912,NL,Heinie Zimmerman,Chicago,207.0
+1913,AL,Joe Jackson,Cleveland,197.0
+1913,NL,Gavvy Cravath,Philadelphia,179.0
+1914,AL,Tris Speaker,Boston,193.0
+1914,NL,Sherry Magee,Philadelphia,171.0
+1915,AL,Ty Cobb,Detroit,208.0
+1915,NL,Larry Doyle,New York,189.0
+1916,AL,Tris Speaker,Cleveland,211.0
+1916,NL,Hal Chase,Cincinnati,184.0
+1917,AL,Ty Cobb,Detroit,225.0
+1917,NL,Heinie Groh,Cincinnati,182.0
+1918,AL,George Burns,Philadelphia,178.0
+1918,NL,Charlie Hollocher,Chicago,161.0
+1919,AL,Ty Cobb,Detroit,191.0
+1919,NL,Ivy Olson,Brooklyn,164.0
+1920,AL,George Sisler,St. Louis,257.0
+1920,NL,Rogers Hornsby,St. Louis,218.0
+1921,AL,Harry Heilmann,Detroit,237.0
+1921,NL,Rogers Hornsby,St. Louis,235.0
+1922,AL,George Sisler,St. Louis,246.0
+1922,NL,Rogers Hornsby,St. Louis,250.0
+1923,AL,Charlie Jamieson,Cleveland,222.0
+1923,NL,Frankie Frisch,New York,223.0
+1924,AL,Sam Rice,Washington,216.0
+1924,NL,Rogers Hornsby,St. Louis,227.0
+1925,AL,Al Simmons,Philadelphia,253.0
+1925,NL,Jim Bottomley,St. Louis,227.0
+1926,AL,George Burns,Cleveland,216.0
+1926,NL,Eddie Brown,Boston,201.0
+1927,AL,Earle Combs,New York,231.0
+1927,NL,Paul Waner,Pittsburgh,237.0
+1928,AL,Heinie Manush,St. Louis,241.0
+1928,NL,Freddie Lindstrom,New York,231.0
+1929,AL,Dale Alexander,Detroit,215.0
+1929,NL,Lefty O'Doul,Philadelphia,254.0
+1930,AL,Johnny Hodapp,Cleveland,225.0
+1930,NL,Bill Terry,New York,254.0
+1931,AL,Lou Gehrig,New York,211.0
+1931,NL,Lloyd Waner,Pittsburgh,214.0
+1932,AL,Al Simmons,Philadelphia,216.0
+1932,NL,Chuck Klein,Philadelphia,226.0
+1933,AL,Heinie Manush,Washington,221.0
+1933,NL,Chuck Klein,Philadelphia,223.0
+1934,AL,Charlie Gehringer,Detroit,214.0
+1934,NL,Paul Waner,Pittsburgh,217.0
+1935,AL,Joe Vosmik,Cleveland,216.0
+1935,NL,Billy Herman,Chicago,227.0
+1936,AL,Earl Averill,Cleveland,232.0
+1936,NL,Joe Medwick,St. Louis,223.0
+1937,AL,Beau Bell,St. Louis,218.0
+1937,NL,Joe Medwick,St. Louis,237.0
+1938,AL,Joe Vosmik,Boston,201.0
+1938,NL,Frank McCormick,Cincinnati,209.0
+1939,AL,Red Rolfe,New York,213.0
+1939,NL,Frank McCormick,Cincinnati,209.0
+1940,AL,Doc Cramer,Boston,200.0
+1940,NL,Stan Hack,Chicago,191.0
+1941,AL,Cecil Travis,Washington,218.0
+1941,NL,Stan Hack,Chicago,186.0
+1942,AL,Johnny Pesky,Boston,205.0
+1942,NL,Enos Slaughter,St. Louis,188.0
+1943,AL,Dick Wakefield,Detroit,200.0
+1943,NL,Stan Musial,St. Louis,220.0
+1944,AL,Snuffy Stirnweiss,New York,205.0
+1944,NL,Phil Cavarretta,Chicago,197.0
+1945,AL,Snuffy Stirnweiss,New York,195.0
+1945,NL,Tommy Holmes,Boston,224.0
+1946,AL,Johnny Pesky,Boston,208.0
+1946,NL,Stan Musial,St. Louis,228.0
+1947,AL,Johnny Pesky,Boston,207.0
+1947,NL,Tommy Holmes,Boston,191.0
+1948,AL,Bob Dillinger,St. Louis,207.0
+1948,NL,Stan Musial,St. Louis,230.0
+1949,AL,Dale Mitchell,Cleveland,203.0
+1949,NL,Stan Musial,St. Louis,207.0
+1950,AL,George Kell,Detroit,218.0
+1950,NL,Duke Snider,Brooklyn,199.0
+1951,AL,George Kell,Detroit,191.0
+1951,NL,Richie Ashburn,Philadelphia,221.0
+1952,AL,Nellie Fox,Chicago,192.0
+1952,NL,Stan Musial,St. Louis,194.0
+1953,AL,Harvey Kuenn,Detroit,209.0
+1953,NL,Richie Ashburn,Philadelphia,205.0
+1954,AL,Nellie Fox,Chicago,201.0
+1954,NL,Don Mueller,New York,212.0
+1955,AL,Al Kaline,Detroit,200.0
+1955,NL,Ted Kluszewski,Cincinnati,192.0
+1956,AL,Harvey Kuenn,Detroit,196.0
+1956,NL,Hank Aaron,Milwaukee,200.0
+1957,AL,Nellie Fox,Chicago,196.0
+1957,NL,Red Schoendienst,Milwaukee,200.0
+1958,AL,Nellie Fox,Chicago,187.0
+1958,NL,Richie Ashburn,Philadelphia,215.0
+1959,AL,Harvey Kuenn,Detroit,198.0
+1959,NL,Hank Aaron,Milwaukee,223.0
+1960,AL,Minnie Minoso,Chicago,184.0
+1960,NL,Willie Mays,San Francisco,190.0
+1961,AL,Norm Cash,Detroit,193.0
+1961,NL,Vada Pinson,Cincinnati,208.0
+1962,AL,Bobby Richardson,New York,209.0
+1962,NL,Tommy Davis,Los Angeles,230.0
+1963,AL,Carl Yastrzemski,Boston,183.0
+1963,NL,Vada Pinson,Cincinnati,204.0
+1964,AL,Tony Oliva,Minnesota,217.0
+1964,NL,Roberto Clemente,Pittsburgh,211.0
+1965,AL,Tony Oliva,Minnesota,185.0
+1965,NL,Pete Rose,Cincinnati,209.0
+1966,AL,Tony Oliva,Minnesota,191.0
+1966,NL,Felipe Alou,Atlanta,218.0
+1967,AL,Carl Yastrzemski,Boston,189.0
+1967,NL,Roberto Clemente,Pittsburgh,209.0
+1968,AL,Bert Campaneris,Oakland,177.0
+1968,NL,Felipe Alou,Atlanta,210.0
+1969,AL,Tony Oliva,Minnesota,197.0
+1969,NL,Matty Alou,Pittsburgh,231.0
+1970,AL,Tony Oliva,Minnesota,204.0
+1970,NL,Pete Rose,Cincinnati,205.0
+1971,AL,Cesar Tovar,Minnesota,204.0
+1971,NL,Joe Torre,St. Louis,230.0
+1972,AL,Joe Rudi,Oakland,181.0
+1972,NL,Pete Rose,Cincinnati,198.0
+1973,AL,Rod Carew,Minnesota,203.0
+1973,NL,Pete Rose,Cincinnati,230.0
+1974,AL,Rod Carew,Minnesota,218.0
+1974,NL,Ralph Garr,Atlanta,214.0
+1975,AL,George Brett,Kansas City,195.0
+1975,NL,Dave Cash,Philadelphia,213.0
+1976,AL,George Brett,Kansas City,215.0
+1976,NL,Pete Rose,Cincinnati,215.0
+1977,AL,Rod Carew,Minnesota,239.0
+1977,NL,Dave Parker,Pittsburgh,215.0
+1978,AL,Jim Rice,Boston,213.0
+1978,NL,Steve Garvey,Los Angeles,202.0
+1979,AL,George Brett,Kansas City,212.0
+1979,NL,Garry Templeton,St. Louis,211.0
+1980,AL,Willie Wilson,Kansas City,230.0
+1980,NL,Steve Garvey,Los Angeles,200.0
+1981,AL,Rickey Henderson,Oakland,135.0
+1981,NL,Pete Rose,Philadelphia,140.0
+1982,AL,Robin Yount,Milwaukee,210.0
+1982,NL,Al Oliver,Montreal,204.0
+1983,AL,Cal Ripken Jr.,Baltimore,211.0
+1983,NL,Jose Cruz,Houston,189.0
+1984,AL,Don Mattingly,New York,207.0
+1984,NL,Tony Gwynn,San Diego,213.0
+1985,AL,Wade Boggs,Boston,240.0
+1985,NL,Willie McGee,St. Louis,216.0
+1986,AL,Don Mattingly,New York,238.0
+1986,NL,Tony Gwynn,San Diego,211.0
+1987,AL,Kirby Puckett,Minnesota,207.0
+1987,NL,Tony Gwynn,San Diego,218.0
+1988,AL,Kirby Puckett,Minnesota,234.0
+1988,NL,Andres Galarraga,Montreal,184.0
+1989,AL,Kirby Puckett,Minnesota,215.0
+1989,NL,Tony Gwynn,San Diego,203.0
+1990,AL,Rafael Palmeiro,Texas,191.0
+1990,NL,Brett Butler,San Francisco,192.0
+1991,AL,Paul Molitor,Milwaukee,216.0
+1991,NL,Terry Pendleton,Atlanta,187.0
+1992,AL,Kirby Puckett,Minnesota,210.0
+1992,NL,Terry Pendleton,Atlanta,199.0
+1993,AL,Paul Molitor,Toronto,211.0
+1993,NL,Lenny Dykstra,Philadelphia,194.0
+1994,AL,Kenny Lofton,Cleveland,160.0
+1994,NL,Tony Gwynn,San Diego,165.0
+1995,AL,Lance Johnson,Chicago,186.0
+1995,NL,Dante Bichette,Colorado,197.0
+1996,AL,Paul Molitor,Minnesota,225.0
+1996,NL,Lance Johnson,New York,227.0
+1997,AL,Nomar Garciaparra,Boston,209.0
+1997,NL,Tony Gwynn,San Diego,220.0
+1998,AL,Alex Rodriguez,Seattle,213.0
+1998,NL,Dante Bichette,Colorado,219.0
+1999,AL,Derek Jeter,New York,219.0
+1999,NL,Luis Gonzalez,Arizona,206.0
+2000,AL,Darin Erstad,Anaheim,240.0
+2000,NL,Todd Helton,Colorado,216.0
+2001,AL,Ichiro Suzuki,Seattle,242.0
+2001,NL,Rich Aurilia,San Francisco,206.0
+2002,AL,Alfonso Soriano,New York,209.0
+2002,NL,Vladimir Guerrero,Montreal,206.0
+2003,AL,Vernon Wells,Toronto,215.0
+2003,NL,Albert Pujols,St. Louis,212.0
+2004,AL,Ichiro Suzuki,Seattle,262.0
+2004,NL,Juan Pierre,Florida,221.0
+2005,AL,Michael Young,Texas,221.0
+2005,NL,Derrek Lee,Chicago,199.0
+2006,AL,Ichiro Suzuki,Seattle,224.0
+2006,NL,Juan Pierre,Chicago,204.0
+2007,AL,Ichiro Suzuki,Seattle,238.0
+2007,NL,Matt Holliday,Colorado,216.0
+2008,AL,Dustin Pedroia,Boston,213.0
+2008,NL,Jose Reyes,New York,204.0
+2009,AL,Ichiro Suzuki,Seattle,225.0
+2009,NL,Ryan Braun,Milwaukee,203.0
+2010,AL,Ichiro Suzuki,Seattle,214.0
+2010,NL,Carlos González,Colorado,197.0
+2011,AL,Adrian Gonzalez,Boston,213.0
+2011,NL,Starlin Castro,Chicago,207.0
+2012,AL,Derek Jeter,New York,216.0
+2012,NL,Andrew McCutchen,Pittsburgh,194.0
+2013,AL,Adrián Beltré,Texas,199.0
+2013,NL,Matt Carpenter,St. Louis,199.0
+2014,AL,Jose Altuve,Houston,225.0
+2014,NL,Ben Revere,Philadelphia,184.0
+2015,AL,Jose Altuve,Houston,200.0
+2015,NL,Dee Strange-Gordon,Miami,205.0
+2016,AL,Jose Altuve,Houston,216.0
+2016,NL,Jean Segura,Arizona,203.0
+2017,AL,Jose Altuve,Houston,204.0
+2017,NL,Charlie Blackmon,Colorado,213.0
+2018,AL,Whit Merrifield,Kansas City,192.0
+2018,NL,Freddie Freeman,Atlanta,191.0
+2019,AL,Whit Merrifield,Kansas City,206.0
+2019,NL,Ozzie Albies,Atlanta,189.0
+2020,AL,José Abreu,Chicago,76.0
+2020,NL,Trea Turner,Washington,78.0
+2021,AL,Bo Bichette,Toronto,191.0
+2021,NL,Trea Turner,Los Angeles,195.0
+2022,AL,Bo Bichette,Toronto,189.0
+2022,NL,Freddie Freeman,Los Angeles,199.0
+2023,AL,Marcus Semien,Texas,185.0
+2023,NL,Ronald Acuña Jr.,Atlanta,217.0
+2024,AL,Bobby Witt Jr.,Kansas City,211.0
+2024,NL,Luis Arraez,Miami,200.0
+2025,AL,Aaron Judge,New York,99.0
+2025,NL,Trea Turner,Philadelphia,85.0

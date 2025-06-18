@@ -1,0 +1,305 @@
+Year,League,Player,Team,On Base Percentage
+Year,AL,American League,Team(s),OBP
+Year,NL,National League,Team(s),OBP
+1876,AL,-,-,-
+1876,NL,Ross Barnes,Chicago,.462
+1877,AL,-,-,-
+1877,NL,Jim O'Rourke,Boston,.407
+1878,AL,-,-,-
+1878,NL,Bob Ferguson,Chicago,.375
+1879,AL,-,-,-
+1879,NL,Jim O'Rourke,Providence,.371
+1880,AL,-,-,-
+1880,NL,George Gore,Chicago,.399
+1881,AL,-,-,-
+1881,NL,Cap Anson,Chicago,.442
+1882,AL,-,-,-
+1882,NL,Dan Brouthers,Buffalo,.403
+1883,AL,-,-,-
+1883,NL,Dan Brouthers,Buffalo,.397
+1884,AL,-,-,-
+1884,NL,King Kelly,Chicago,.414
+1885,AL,-,-,-
+1885,NL,Roger Connor,New York,.435
+1886,AL,-,-,-
+1886,NL,King Kelly,Chicago,.483
+1887,AL,-,-,-
+1887,NL,Dan Brouthers,Detroit,.426
+1888,AL,-,-,-
+1888,NL,Cap Anson,Chicago,.400
+1889,AL,-,-,-
+1889,NL,Fred Carroll,Pittsburgh,.486
+1890,AL,-,-,-
+1890,NL,Cap Anson,Chicago,.443
+1891,AL,-,-,-
+1891,NL,Billy Hamilton,Philadelphia,.453
+1892,AL,-,-,-
+1892,NL,Cupid Childs,Cleveland,.443
+1893,AL,-,-,-
+1893,NL,Billy Hamilton,Philadelphia,.490
+1894,AL,-,-,-
+1894,NL,Billy Hamilton,Philadelphia,.523
+1895,AL,-,-,-
+1895,NL,Ed Delahanty,Philadelphia,.500
+1896,AL,-,-,-
+1896,NL,Billy Hamilton,Boston,.478
+1897,AL,-,-,-
+1897,NL,John McGraw,Baltimore,.471
+1898,AL,-,-,-
+1898,NL,Billy Hamilton,Boston,.480
+1899,AL,-,-,-
+1899,NL,John McGraw,Baltimore,.547
+1900,AL,-,-,-
+1900,NL,John McGraw,St. Louis,.505
+1901,AL,Nap Lajoie,Philadelphia,.458
+1901,NL,Jesse Burkett,St. Louis,.440
+1902,AL,Ed Delahanty,Washington,.453
+1902,NL,Roy Thomas,Philadelphia,.414
+1903,AL,Jimmy Barrett,Detroit,.407
+1903,NL,Roy Thomas,Philadelphia,.453
+1904,AL,Nap Lajoie,Cleveland,.418
+1904,NL,Honus Wagner,Pittsburgh,.423
+1905,AL,Topsy Hartsel,Philadelphia,.409
+1905,NL,Frank Chance,Chicago,.450
+1906,AL,George Stone,St. Louis,.417
+1906,NL,Roger Bresnahan,New York,.419
+1907,AL,Topsy Hartsel,Philadelphia,.405
+1907,NL,Honus Wagner,Pittsburgh,.408
+1908,AL,Doc Gessler,Boston,.394
+1908,NL,Honus Wagner,Pittsburgh,.415
+1909,AL,Ty Cobb,Detroit,.431
+1909,NL,Honus Wagner,Pittsburgh,.420
+1910,AL,Ty Cobb,Detroit,.455
+1910,NL,Sherry Magee,Philadelphia,.445
+1911,AL,Joe Jackson,Cleveland,.468
+1911,NL,Jimmy Sheckard,Chicago,.434
+1912,AL,Tris Speaker,Boston,.464
+1912,NL,Johnny Evers,Chicago,.431
+1913,AL,Ty Cobb,Detroit,.466
+1913,NL,Miller Huggins,St. Louis,.432
+1914,AL,Eddie Collins,Philadelphia,.452
+1914,NL,Casey Stengel,Brooklyn,.404
+1915,AL,Ty Cobb,Detroit,.486
+1915,NL,Gavvy Cravath,Philadelphia,.393
+1916,AL,Tris Speaker,Cleveland,.470
+1916,NL,Gavvy Cravath,Philadelphia,.379
+1917,AL,Ty Cobb,Detroit,.444
+1917,NL,Heinie Groh,Cincinnati,.385
+1918,AL,Ty Cobb,Detroit,.440
+1918,NL,Heinie Groh,Cincinnati,.395
+1919,AL,Babe Ruth,Boston,.456
+1919,NL,George Burns,New York,.396
+1920,AL,Babe Ruth,New York,.532
+1920,NL,Rogers Hornsby,St. Louis,.431
+1921,AL,Babe Ruth,New York,.512
+1921,NL,Rogers Hornsby,St. Louis,.458
+1922,AL,Tris Speaker,Cleveland,.474
+1922,NL,Rogers Hornsby,St. Louis,.459
+1923,AL,Babe Ruth,New York,.545
+1923,NL,Rogers Hornsby,St. Louis,.459
+1924,AL,Babe Ruth,New York,.513
+1924,NL,Rogers Hornsby,St. Louis,.507
+1925,AL,Tris Speaker,Cleveland,.479
+1925,NL,Rogers Hornsby,St. Louis,.489
+1926,AL,Babe Ruth,New York,.516
+1926,NL,Paul Waner,Pittsburgh,.413
+1927,AL,Babe Ruth,New York,.486
+1927,NL,Rogers Hornsby,New York,.448
+1928,AL,Lou Gehrig,New York,.467
+1928,NL,Rogers Hornsby,Boston,.498
+1929,AL,Jimmie Foxx,Philadelphia,.463
+1929,NL,Lefty O'Doul,Philadelphia,.465
+1930,AL,Babe Ruth,New York,.493
+1930,NL,Mel Ott,New York,.458
+1931,AL,Babe Ruth,New York,.495
+1931,NL,Chick Hafey,St. Louis,.404
+1932,AL,Babe Ruth,New York,.489
+1932,NL,Mel Ott,New York,.424
+1933,AL,Mickey Cochrane,Philadelphia,.459
+1933,NL,Chuck Klein,Philadelphia,.422
+1934,AL,Lou Gehrig,New York,.465
+1934,NL,Arky Vaughan,Pittsburgh,.431
+1935,AL,Lou Gehrig,New York,.466
+1935,NL,Arky Vaughan,Pittsburgh,.491
+1936,AL,Lou Gehrig,New York,.478
+1936,NL,Arky Vaughan,Pittsburgh,.453
+1937,AL,Lou Gehrig,New York,.473
+1937,NL,Dolph Camilli,Philadelphia,.446
+1938,AL,Jimmie Foxx,Boston,.462
+1938,NL,Mel Ott,New York,.442
+1939,AL,Jimmie Foxx,Boston,.464
+1939,NL,Mel Ott,New York,.449
+1940,AL,Ted Williams,Boston,.442
+1940,NL,Elbie Fletcher,Pittsburgh,.418
+1941,AL,Ted Williams,Boston,.553
+1941,NL,Elbie Fletcher,Pittsburgh,.421
+1942,AL,Ted Williams,Boston,.499
+1942,NL,Elbie Fletcher,Pittsburgh,.417
+1943,AL,Luke Appling,Chicago,.419
+1943,NL,Stan Musial,St. Louis,.425
+1944,AL,Bob Johnson,Boston,.431
+1944,NL,Stan Musial,St. Louis,.440
+1945,AL,Eddie Lake,Boston,.412
+1945,NL,Phil Cavarretta,Chicago,.449
+1946,AL,Ted Williams,Boston,.497
+1946,NL,Eddie Stanky,Brooklyn,.436
+1947,AL,Ted Williams,Boston,.499
+1947,NL,Augie Galan,Cincinnati,.449
+1948,AL,Ted Williams,Boston,.497
+1948,NL,Stan Musial,St. Louis,.450
+1949,AL,Ted Williams,Boston,.490
+1949,NL,Stan Musial,St. Louis,.438
+1950,AL,Larry Doby,Cleveland,.442
+1950,NL,Eddie Stanky,New York,.460
+1951,AL,Ted Williams,Boston,.464
+1951,NL,Ralph Kiner,Pittsburgh,.452
+1952,AL,Ferris Fain,Philadelphia,.438
+1952,NL,Jackie Robinson,Brooklyn,.440
+1953,AL,Gene Woodling,New York,.429
+1953,NL,Stan Musial,St. Louis,.437
+1954,AL,Ted Williams,Boston,.513
+1954,NL,Richie Ashburn,Philadelphia,.441
+1955,AL,Mickey Mantle,New York,.431
+1955,NL,Richie Ashburn,Philadelphia,.449
+1956,AL,Ted Williams,Boston,.479
+1956,NL,Duke Snider,Brooklyn,.399
+1957,AL,Ted Williams,Boston,.526
+1957,NL,Stan Musial,St. Louis,.422
+1958,AL,Ted Williams,Boston,.458
+1958,NL,Richie Ashburn,Philadelphia,.440
+1959,AL,Eddie Yost,Detroit,.435
+1959,NL,Joe Cunningham,St. Louis,.453
+1960,AL,Eddie Yost,Detroit,.414
+1960,NL,Richie Ashburn,Chicago,.415
+1961,AL,Norm Cash,Detroit,.487
+1961,NL,Wally Moon,Los Angeles,.434
+1962,AL,Mickey Mantle,New York,.486
+1962,NL,Frank Robinson,Cincinnati,.421
+1963,AL,Carl Yastrzemski,Boston,.418
+1963,NL,Eddie Mathews,Milwaukee,.399
+1964,AL,Mickey Mantle,New York,.423
+1964,NL,Ron Santo,Chicago,.398
+1965,AL,Carl Yastrzemski,Boston,.395
+1965,NL,Willie Mays,San Francisco,.398
+1966,AL,Frank Robinson,Baltimore,.410
+1966,NL,Ron Santo,Chicago,.412
+1967,AL,Carl Yastrzemski,Boston,.418
+1967,NL,Dick Allen,Philadelphia,.404
+1968,AL,Carl Yastrzemski,Boston,.426
+1968,NL,Pete Rose,Cincinnati,.391
+1969,AL,Harmon Killebrew,Minnesota,.427
+1969,NL,Willie McCovey,San Francisco,.453
+1970,AL,Carl Yastrzemski,Boston,.452
+1970,NL,Rico Carty,Atlanta,.454
+1971,AL,Bobby Murcer,New York,.427
+1971,NL,Willie Mays,San Francisco,.425
+1972,AL,Dick Allen,Chicago,.420
+1972,NL,Joe Morgan,Cincinnati,.417
+1973,AL,John Mayberry,Kansas City,.417
+1973,NL,Ken Singleton,Montreal,.425
+1974,AL,Rod Carew,Minnesota,.433
+1974,NL,Joe Morgan,Cincinnati,.427
+1975,AL,Rod Carew,Minnesota,.421
+1975,NL,Joe Morgan,Cincinnati,.466
+1976,AL,Hal McRae,Kansas City,.407
+1976,NL,Joe Morgan,Cincinnati,.444
+1977,AL,Rod Carew,Minnesota,.449
+1977,NL,Reggie Smith,Los Angeles,.427
+1978,AL,Rod Carew,Minnesota,.411
+1978,NL,Jeff Burroughs,Atlanta,.432
+1979,AL,Fred Lynn,Boston,.423
+1979,NL,Pete Rose,Philadelphia,.418
+1980,AL,George Brett,Kansas City,.454
+1980,NL,Keith Hernandez,St. Louis,.408
+1981,AL,Mike Hargrove,Cleveland,.424
+1981,NL,Mike Schmidt,Philadelphia,.435
+1982,AL,Dwight Evans,Boston,.402
+1982,NL,Mike Schmidt,Philadelphia,.403
+1983,AL,Wade Boggs,Boston,.444
+1983,NL,Mike Schmidt,Philadelphia,.399
+1984,AL,Eddie Murray,Baltimore,.410
+1984,NL,Gary Matthews,Chicago,.410
+1985,AL,Wade Boggs,Boston,.450
+1985,NL,Pedro Guerrero,Los Angeles,.422
+1986,AL,Wade Boggs,Boston,.453
+1986,NL,Tim Raines,Montreal,.413
+1987,AL,Wade Boggs,Boston,.461
+1987,NL,Jack Clark,St. Louis,.459
+1988,AL,Wade Boggs,Boston,.476
+1988,NL,Kal Daniels,Cincinnati,.397
+1989,AL,Wade Boggs,Boston,.430
+1989,NL,Lonnie Smith,Atlanta,.415
+1990,AL,Rickey Henderson,Oakland,.439
+1990,NL,Lenny Dykstra,Philadelphia,.418
+1991,AL,Frank Thomas,Chicago,.453
+1991,NL,Barry Bonds,Pittsburgh,.410
+1992,AL,Frank Thomas,Chicago,.439
+1992,NL,Barry Bonds,Pittsburgh,.456
+1993,AL,John Olerud,Toronto,.473
+1993,NL,Barry Bonds,San Francisco,.458
+1994,AL,Frank Thomas,Chicago,.487
+1994,NL,Tony Gwynn,San Diego,.454
+1995,AL,Edgar Martinez,Seattle,.479
+1995,NL,Barry Bonds,San Francisco,.431
+1996,AL,Mark McGwire,Oakland,.467
+1996,NL,Gary Sheffield,Florida,.465
+1997,AL,Frank Thomas,Chicago,.456
+1997,NL,Larry Walker,Colorado,.452
+1998,AL,Edgar Martinez,Seattle,.429
+1998,NL,Mark McGwire,St. Louis,.470
+1999,AL,Edgar Martinez,Seattle,.447
+1999,NL,Larry Walker,Colorado,.458
+2000,AL,Jason Giambi,Oakland,.476
+2000,NL,Todd Helton,Colorado,.463
+2001,AL,Jason Giambi,Oakland,.477
+2001,NL,Barry Bonds,San Francisco,.515
+2002,AL,Manny Ramirez,Boston,.450
+2002,NL,Barry Bonds,San Francisco,.582
+2003,AL,Manny Ramirez,Boston,.427
+2003,NL,Barry Bonds,San Francisco,.529
+2004,AL,Melvin Mora,Baltimore,.419
+2004,NL,Barry Bonds,San Francisco,.609
+2005,AL,Jason Giambi,New York,.440
+2005,NL,Todd Helton,Colorado,.445
+2006,AL,Manny Ramirez,Boston,.439
+2006,NL,Albert Pujols,St. Louis,.431
+2007,AL,David Ortiz,Boston,.445
+2007,NL,Todd Helton,Colorado,.434
+2008,AL,Milton Bradley,Texas,.436
+2008,NL,Chipper Jones,Atlanta,.470
+2009,AL,Joe Mauer,Minnesota,.444
+2009,NL,Albert Pujols,St. Louis,.443
+2010,AL,Miguel Cabrera,Detroit,.420
+2010,NL,Joey Votto,Cincinnati,.424
+2011,AL,Miguel Cabrera,Detroit,.448
+2011,NL,Joey Votto,Cincinnati,.416
+2012,AL,Joe Mauer,Minnesota,.416
+2012,NL,Buster Posey,San Francisco,.408
+2013,AL,Miguel Cabrera,Detroit,.442
+2013,NL,Joey Votto,Cincinnati,.435
+2014,AL,Victor Martinez,Detroit,.409
+2014,NL,Andrew McCutchen,Pittsburgh,.410
+2015,AL,Miguel Cabrera,Detroit,.440
+2015,NL,Bryce Harper,Washington,.460
+2016,AL,Mike Trout,Los Angeles,.441
+2016,NL,Joey Votto,Cincinnati,.434
+2017,AL,Mike Trout,Los Angeles,.442
+2017,NL,Joey Votto,Cincinnati,.454
+2018,AL,Mike Trout,Los Angeles,.460
+2018,NL,Joey Votto,Cincinnati,.417
+2019,AL,Mike Trout,Los Angeles,.438
+2019,NL,Christian Yelich,Milwaukee,.429
+2020,AL,DJ LeMahieu,New York,.421
+2020,NL,Juan Soto,Washington,.490
+2021,AL,Vladimir Guerrero Jr.,Toronto,.401
+2021,NL,Juan Soto,Washington,.465
+2022,AL,Aaron Judge,New York,.425
+2022,NL,Freddie Freeman,Los Angeles,.407
+2023,AL,Shohei Ohtani,Los Angeles,.412
+2023,NL,Ronald Acuña Jr.,Atlanta,.416
+2024,AL,Aaron Judge,New York,.458
+2024,NL,Shohei Ohtani,Los Angeles,.390
+2025,AL,-,-,-
+2025,NL,-,-,-
+Year,AL,American League,Team(s),OBP
+Year,NL,National League,Team(s),OBP

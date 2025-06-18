@@ -1,0 +1,274 @@
+Year,League,Player,Team,Batting Average
+1876,NL,Ross Barnes,Chicago,0.429
+1877,NL,Deacon White,Boston,0.387
+1878,NL,Paul Hines,Providence,0.358
+1879,NL,Paul Hines,Providence,0.357
+1880,NL,George Gore,Chicago,0.36
+1881,NL,Cap Anson,Chicago,0.399
+1882,NL,Dan Brouthers,Buffalo,0.368
+1883,NL,Dan Brouthers,Buffalo,0.374
+1884,NL,King Kelly,Chicago,0.354
+1885,NL,Roger Connor,New York,0.371
+1886,NL,King Kelly,Chicago,0.388
+1887,NL,Cap Anson,Chicago,0.347
+1888,NL,Cap Anson,Chicago,0.344
+1889,NL,Dan Brouthers,Boston,0.373
+1890,NL,Jack Glasscock,New York,0.336
+1891,NL,Billy Hamilton,Philadelphia,0.34
+1892,NL,Dan Brouthers,Brooklyn,0.335
+1893,NL,Sam Thompson,Philadelphia,0.37
+1894,NL,Hugh Duffy,Boston,0.44
+1895,NL,Jesse Burkett,Cleveland,0.409
+1896,NL,Jesse Burkett,Cleveland,0.41
+1897,NL,Willie Keeler,Baltimore,0.424
+1898,NL,Willie Keeler,Baltimore,0.385
+1899,NL,Ed Delahanty,Philadelphia,0.41
+1900,NL,Honus Wagner,Pittsburgh,0.381
+1901,AL,Nap Lajoie,Philadelphia,0.421
+1901,NL,Jesse Burkett,St. Louis,0.376
+1902,AL,Ed Delahanty,Washington,0.376
+1902,NL,Ginger Beaumont,Pittsburgh,0.357
+1903,AL,Nap Lajoie,Cleveland,0.357
+1903,NL,Honus Wagner,Pittsburgh,0.355
+1904,AL,Nap Lajoie,Cleveland,0.382
+1904,NL,Honus Wagner,Pittsburgh,0.349
+1905,AL,Elmer Flick,Cleveland,0.308
+1905,NL,Cy Seymour,Cincinnati,0.377
+1906,AL,George Stone,St. Louis,0.358
+1906,NL,Honus Wagner,Pittsburgh,0.339
+1907,AL,Ty Cobb,Detroit,0.35
+1907,NL,Honus Wagner,Pittsburgh,0.35
+1908,AL,Ty Cobb,Detroit,0.324
+1908,NL,Honus Wagner,Pittsburgh,0.354
+1909,AL,Ty Cobb,Detroit,0.377
+1909,NL,Honus Wagner,Pittsburgh,0.339
+1910,AL,Ty Cobb,Detroit,0.383
+1910,NL,Sherry Magee,Philadelphia,0.331
+1911,AL,Ty Cobb,Detroit,0.419
+1911,NL,Honus Wagner,Pittsburgh,0.334
+1912,AL,Ty Cobb,Detroit,0.409
+1912,NL,Heinie Zimmerman,Chicago,0.372
+1913,AL,Ty Cobb,Detroit,0.39
+1913,NL,Jake Daubert,Brooklyn,0.35
+1914,AL,Ty Cobb,Detroit,0.368
+1914,NL,Jake Daubert,Brooklyn,0.329
+1915,AL,Ty Cobb,Detroit,0.369
+1915,NL,Larry Doyle,New York,0.32
+1916,AL,Tris Speaker,Cleveland,0.386
+1916,NL,Hal Chase,Cincinnati,0.339
+1917,AL,Ty Cobb,Detroit,0.383
+1917,NL,Edd Roush,Cincinnati,0.341
+1918,AL,Ty Cobb,Detroit,0.382
+1918,NL,Zack Wheat,Brooklyn,0.335
+1919,AL,Ty Cobb,Detroit,0.384
+1919,NL,Edd Roush,Cincinnati,0.321
+1920,AL,George Sisler,St. Louis,0.407
+1920,NL,Rogers Hornsby,St. Louis,0.37
+1921,AL,Harry Heilmann,Detroit,0.394
+1921,NL,Rogers Hornsby,St. Louis,0.397
+1922,AL,George Sisler,St. Louis,0.42
+1922,NL,Rogers Hornsby,St. Louis,0.401
+1923,AL,Harry Heilmann,Detroit,0.403
+1923,NL,Rogers Hornsby,St. Louis,0.384
+1924,AL,Babe Ruth,New York,0.378
+1924,NL,Rogers Hornsby,St. Louis,0.424
+1925,AL,Harry Heilmann,Detroit,0.393
+1925,NL,Rogers Hornsby,St. Louis,0.403
+1926,AL,Heinie Manush,Detroit,0.378
+1926,NL,Bubbles Hargrave,Cincinnati,0.353
+1927,AL,Harry Heilmann,Detroit,0.398
+1927,NL,Paul Waner,Pittsburgh,0.38
+1928,AL,Goose Goslin,Washington,0.379
+1928,NL,Rogers Hornsby,Boston,0.387
+1929,AL,Lew Fonseca,Cleveland,0.369
+1929,NL,Lefty O'Doul,Philadelphia,0.398
+1930,AL,Al Simmons,Philadelphia,0.381
+1930,NL,Bill Terry,New York,0.401
+1931,AL,Al Simmons,Philadelphia,0.39
+1931,NL,Chick Hafey,St. Louis,0.349
+1932,AL,Dale Alexander,Boston,0.367
+1932,NL,Lefty O'Doul,Brooklyn,0.368
+1933,AL,Jimmie Foxx,Philadelphia,0.356
+1933,NL,Chuck Klein,Philadelphia,0.368
+1934,AL,Lou Gehrig,New York,0.363
+1934,NL,Paul Waner,Pittsburgh,0.362
+1935,AL,Buddy Myer,Washington,0.349
+1935,NL,Arky Vaughan,Pittsburgh,0.385
+1936,AL,Luke Appling,Chicago,0.388
+1936,NL,Paul Waner,Pittsburgh,0.373
+1937,AL,Charlie Gehringer,Detroit,0.371
+1937,NL,Joe Medwick,St. Louis,0.374
+1938,AL,Jimmie Foxx,Boston,0.349
+1938,NL,Ernie Lombardi,Cincinnati,0.342
+1939,AL,Joe DiMaggio,New York,0.381
+1939,NL,Johnny Mize,St. Louis,0.349
+1940,AL,Joe DiMaggio,New York,0.352
+1940,NL,Stan Hack,Chicago,0.317
+1941,AL,Ted Williams,Boston,0.406
+1941,NL,Pete Reiser,Brooklyn,0.343
+1942,AL,Ted Williams,Boston,0.356
+1942,NL,Ernie Lombardi,Boston,0.33
+1943,AL,Luke Appling,Chicago,0.328
+1943,NL,Stan Musial,St. Louis,0.357
+1944,AL,Lou Boudreau,Cleveland,0.327
+1944,NL,Dixie Walker,Brooklyn,0.357
+1945,AL,Snuffy Stirnweiss,New York,0.309
+1945,NL,Phil Cavarretta,Chicago,0.355
+1946,AL,Mickey Vernon,Washington,0.353
+1946,NL,Stan Musial,St. Louis,0.365
+1947,AL,Ted Williams,Boston,0.343
+1947,NL,Harry Walker,Philadelphia,0.363
+1948,AL,Ted Williams,Boston,0.369
+1948,NL,Stan Musial,St. Louis,0.376
+1949,AL,George Kell,Detroit,0.343
+1949,NL,Jackie Robinson,Brooklyn,0.342
+1950,AL,Billy Goodman,Boston,0.354
+1950,NL,Stan Musial,St. Louis,0.346
+1951,AL,Ferris Fain,Philadelphia,0.344
+1951,NL,Stan Musial,St. Louis,0.355
+1952,AL,Ferris Fain,Philadelphia,0.327
+1952,NL,Stan Musial,St. Louis,0.336
+1953,AL,Mickey Vernon,Washington,0.337
+1953,NL,Carl Furillo,Brooklyn,0.344
+1954,AL,Bobby Avila,Cleveland,0.341
+1954,NL,Willie Mays,New York,0.345
+1955,AL,Al Kaline,Detroit,0.34
+1955,NL,Richie Ashburn,Philadelphia,0.338
+1956,AL,Mickey Mantle,New York,0.353
+1956,NL,Hank Aaron,Milwaukee,0.328
+1957,AL,Ted Williams,Boston,0.388
+1957,NL,Stan Musial,St. Louis,0.351
+1958,AL,Ted Williams,Boston,0.328
+1958,NL,Richie Ashburn,Philadelphia,0.35
+1959,AL,Harvey Kuenn,Detroit,0.353
+1959,NL,Hank Aaron,Milwaukee,0.355
+1960,AL,Pete Runnels,Boston,0.32
+1960,NL,Dick Groat,Pittsburgh,0.325
+1961,AL,Norm Cash,Detroit,0.361
+1961,NL,Roberto Clemente,Pittsburgh,0.351
+1962,AL,Pete Runnels,Boston,0.326
+1962,NL,Tommy Davis,Los Angeles,0.346
+1963,AL,Carl Yastrzemski,Boston,0.321
+1963,NL,Tommy Davis,Los Angeles,0.326
+1964,AL,Tony Oliva,Minnesota,0.323
+1964,NL,Roberto Clemente,Pittsburgh,0.339
+1965,AL,Tony Oliva,Minnesota,0.321
+1965,NL,Roberto Clemente,Pittsburgh,0.329
+1966,AL,Frank Robinson,Baltimore,0.316
+1966,NL,Matty Alou,Pittsburgh,0.342
+1967,AL,Carl Yastrzemski,Boston,0.326
+1967,NL,Roberto Clemente,Pittsburgh,0.357
+1968,AL,Carl Yastrzemski,Boston,0.301
+1968,NL,Pete Rose,Cincinnati,0.335
+1969,AL,Rod Carew,Minnesota,0.332
+1969,NL,Pete Rose,Cincinnati,0.348
+1970,AL,Alex Johnson,California,0.329
+1970,NL,Rico Carty,Atlanta,0.366
+1971,AL,Tony Oliva,Minnesota,0.337
+1971,NL,Joe Torre,St. Louis,0.363
+1972,AL,Rod Carew,Minnesota,0.318
+1972,NL,Billy Williams,Chicago,0.333
+1973,AL,Rod Carew,Minnesota,0.35
+1973,NL,Pete Rose,Cincinnati,0.338
+1974,AL,Rod Carew,Minnesota,0.364
+1974,NL,Ralph Garr,Atlanta,0.353
+1975,AL,Rod Carew,Minnesota,0.359
+1975,NL,Bill Madlock,Chicago,0.354
+1976,AL,George Brett,Kansas City,0.333
+1976,NL,Bill Madlock,Chicago,0.339
+1977,AL,Rod Carew,Minnesota,0.388
+1977,NL,Dave Parker,Pittsburgh,0.338
+1978,AL,Rod Carew,Minnesota,0.333
+1978,NL,Dave Parker,Pittsburgh,0.334
+1979,AL,Fred Lynn,Boston,0.333
+1979,NL,Keith Hernandez,St. Louis,0.344
+1980,AL,George Brett,Kansas City,0.39
+1980,NL,Bill Buckner,Chicago,0.324
+1981,AL,Carney Lansford,Boston,0.336
+1981,NL,Bill Madlock,Pittsburgh,0.341
+1982,AL,Willie Wilson,Kansas City,0.332
+1982,NL,Al Oliver,Montreal,0.331
+1983,AL,Wade Boggs,Boston,0.361
+1983,NL,Bill Madlock,Pittsburgh,0.323
+1984,AL,Don Mattingly,New York,0.343
+1984,NL,Tony Gwynn,San Diego,0.351
+1985,AL,Wade Boggs,Boston,0.368
+1985,NL,Willie McGee,St. Louis,0.353
+1986,AL,Wade Boggs,Boston,0.357
+1986,NL,Tim Raines,Montreal,0.334
+1987,AL,Wade Boggs,Boston,0.363
+1987,NL,Tony Gwynn,San Diego,0.37
+1988,AL,Wade Boggs,Boston,0.366
+1988,NL,Tony Gwynn,San Diego,0.313
+1989,AL,Kirby Puckett,Minnesota,0.339
+1989,NL,Tony Gwynn,San Diego,0.336
+1990,AL,George Brett,Kansas City,0.329
+1990,NL,Eddie Murray,Los Angeles,0.33
+1991,AL,Julio Franco,Texas,0.341
+1991,NL,Terry Pendleton,Atlanta,0.319
+1992,AL,Edgar Martinez,Seattle,0.343
+1992,NL,Gary Sheffield,San Diego,0.33
+1993,AL,John Olerud,Toronto,0.363
+1993,NL,Andres Galarraga,Colorado,0.37
+1994,AL,Paul O'Neill,New York,0.359
+1994,NL,Tony Gwynn,San Diego,0.394
+1995,AL,Edgar Martinez,Seattle,0.356
+1995,NL,Tony Gwynn,San Diego,0.368
+1996,AL,Alex Rodriguez,Seattle,0.358
+1996,NL,Tony Gwynn,San Diego,0.353
+1997,AL,Frank Thomas,Chicago,0.347
+1997,NL,Tony Gwynn,San Diego,0.372
+1998,AL,Bernie Williams,New York,0.339
+1998,NL,Larry Walker,Colorado,0.363
+1999,AL,Nomar Garciaparra,Boston,0.357
+1999,NL,Larry Walker,Colorado,0.379
+2000,AL,Nomar Garciaparra,Boston,0.372
+2000,NL,Todd Helton,Colorado,0.372
+2001,AL,Ichiro Suzuki,Seattle,0.35
+2001,NL,Larry Walker,Colorado,0.35
+2002,AL,Manny Ramirez,Boston,0.349
+2002,NL,Barry Bonds,San Francisco,0.37
+2003,AL,Bill Mueller,Boston,0.326
+2003,NL,Albert Pujols,St. Louis,0.359
+2004,AL,Ichiro Suzuki,Seattle,0.372
+2004,NL,Barry Bonds,San Francisco,0.362
+2005,AL,Michael Young,Texas,0.331
+2005,NL,Derrek Lee,Chicago,0.335
+2006,AL,Joe Mauer,Minnesota,0.347
+2006,NL,Freddy Sanchez,Pittsburgh,0.344
+2007,AL,Magglio Ordonez,Detroit,0.363
+2007,NL,Matt Holliday,Colorado,0.34
+2008,AL,Joe Mauer,Minnesota,0.328
+2008,NL,Chipper Jones,Atlanta,0.364
+2009,AL,Joe Mauer,Minnesota,0.365
+2009,NL,Hanley Ramirez,Florida,0.342
+2010,AL,Josh Hamilton,Texas,0.359
+2010,NL,Carlos González,Colorado,0.336
+2011,AL,Miguel Cabrera,Detroit,0.344
+2011,NL,Jose Reyes,New York,0.337
+2012,AL,Miguel Cabrera,Detroit,0.33
+2012,NL,Buster Posey,San Francisco,0.336
+2013,AL,Miguel Cabrera,Detroit,0.348
+2013,NL,Michael Cuddyer,Colorado,0.331
+2014,AL,Jose Altuve,Houston,0.341
+2014,NL,Justin Morneau,Colorado,0.319
+2015,AL,Miguel Cabrera,Detroit,0.338
+2015,NL,Dee Strange-Gordon,Miami,0.333
+2016,AL,Jose Altuve,Houston,0.338
+2016,NL,DJ LeMahieu,Colorado,0.348
+2017,AL,Jose Altuve,Houston,0.346
+2017,NL,Charlie Blackmon,Colorado,0.331
+2018,AL,Mookie Betts,Boston,0.346
+2018,NL,Christian Yelich,Milwaukee,0.326
+2019,AL,Tim Anderson,Chicago,0.335
+2019,NL,Christian Yelich,Milwaukee,0.329
+2020,AL,DJ LeMahieu,New York,0.364
+2020,NL,Juan Soto,Washington,0.351
+2021,AL,Yuli Gurriel,Houston,0.319
+2021,NL,Trea Turner,Los Angeles,0.328
+2022,AL,Luis Arraez,Minnesota,0.316
+2022,NL,Jeff McNeil,New York,0.326
+2023,AL,Yandy Díaz,Tampa Bay,0.33
+2023,NL,Luis Arraez,Miami,0.354
+2024,AL,Bobby Witt Jr.,Kansas City,0.332
+2024,NL,Luis Arraez,Miami,0.314
